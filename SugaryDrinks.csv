@@ -1,0 +1,343 @@
+Company, Data_Date, Country, ServSize_ml, Item, Calories, Fat_g, SatFat_g, Carbs_g, Fibre_g,Sugars_Total_g
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Small",3,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Medium",4,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - X Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - Small",3,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - Medium",4,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - X Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - Small",3,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - Medium",4,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - X Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - Small",70,4,2.5,8,0,8
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - Medium",100,6,4,11,0,11
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - Large",120,8,5,14,0,13
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - X Large",150,9,6,18,0,17
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - Small",130,8,4.5,16,0,16
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - Medium",200,13,8,22,0,21
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - Large",250,15,10,28,0,27
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - X Large",300,18,11,35,0,34
+Tim Hortons, Oct 2021, Canada, 0,"Latte - Small",90,3.5,2,10,0,9
+Tim Hortons, Oct 2021, Canada, 0,"Latte - Medium",140,5,3.5,14,0,13
+Tim Hortons, Oct 2021, Canada, 0,"Latte - Large",180,7,4.5,18,0,17
+Tim Hortons, Oct 2021, Canada, 0,"Cappuccino - Small",80,3,2,9,0,8
+Tim Hortons, Oct 2021, Canada, 0,"Cappuccino - Medium",120,4.5,3,12,0,11
+Tim Hortons, Oct 2021, Canada, 0,"Cappuccino - Large",150,6,3.5,15,0,14
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - Small",100,1,1,23,1,16
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - Medium",140,1.5,1.5,31,1,22
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - Large",220,2.5,2.5,48,2,33
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - X Large",250,3,3,54,2,37
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - Small",250,9,9,39,0,31
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - Medium",320,11,11,49,0,40
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - Large",430,15,15,65,0,53
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - X Large",570,20,20,86,0,70
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - Small",220,3,2.5,48,1,34
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - Medium",280,4,3,62,2,43
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - Large",30,5,4,82,2,58
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - X Large",500,7,6,108,3,76
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - Small",250,9,8,43,0,36
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - Medium",320,11,10,55,0,45
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - Large",430,15,14,73,0,60
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - X Large",570,20,18,96,0,80
+Tim Hortons, Oct 2021, Canada, 0,"London Fog - Small",110,2,1.5,18,0,18
+Tim Hortons, Oct 2021, Canada, 0,"London Fog - Medium",190,3,2,34,0,33
+Tim Hortons, Oct 2021, Canada, 0,"London Fog - Large",270,4.5,3,50,0,49
+Tim Hortons, Oct 2021, Canada, 0,"Bagged Tea",0,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Steeped Tea",0,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Iced Coffee - Small",110,6,4,13,0,13
+Tim Hortons, Oct 2021, Canada, 0,"Iced Coffee - Medium",150,8,4.5,20,0,19
+Tim Hortons, Oct 2021, Canada, 0,"Iced Coffee - Large",220,13,8,27,0,26
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Coffee - Small",70,1,0.5,14,0,14
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Coffee - Medium",100,1.5,1,21,0,21
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Coffee - Large",140,1.5,1,28,0,28
+Tim Hortons, Oct 2021, Canada, 0,"Original Cold Brew - Small",0,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Cold Brew - Medium",0,0.1,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Cold Brew - Large",0,0.1,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Vanilla Cream Cold Brew - Small",120,6,3.5,15,0,15
+Tim Hortons, Oct 2021, Canada, 0,"Vanilla Cream Cold Brew - Medium",160,7,4,22,0,22
+Tim Hortons, Oct 2021, Canada, 0,"Vanilla Cream Cold Brew - Large",240,12,7,30,0,30
+Tim Hortons, Oct 2021, Canada, 0,"Original Iced Capp® - Small",230,11,7,31,0,29
+Tim Hortons, Oct 2021, Canada, 0,"Original Iced Capp® - Medium",310,16,10,41,0,39
+Tim Hortons, Oct 2021, Canada, 0,"Original Iced Capp® - Large",420,22,14,55,0,52
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Capp® - Small",140,1,1,31,0,30
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Capp® - Medium",190,2,1,41,0,39
+Tim Hortons, Oct 2021, Canada, 0,Light Iced Capp® - Large,260,2.5,1.5,56,0,53
+Tim Hortons, Oct 2021, Canada, 0,Mocha Iced Capp® - Small,350,17,12,50,1,47
+Tim Hortons, Oct 2021, Canada, 0,Mocha Iced Capp® - Medium,450,22,15,63,1,59
+Tim Hortons, Oct 2021, Canada, 0,Mocha Iced Capp® - Large,570,27,19,81,1,76
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Iced Capp® - Small,370,16,12,56,0,54
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Iced Capp® - Medium,510,21,15,79,0,75
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Iced Capp® - Large,670,27,18,106,0,102
+Tim Hortons, Oct 2021, Canada, 0,Caramel Iced Capp® - Small,380,17,13,56,0,52
+Tim Hortons, Oct 2021, Canada, 0,Caramel Iced Capp® - Medium,520,23,16,78,0,73
+Tim Hortons, Oct 2021, Canada, 0,Caramel Iced Capp® - Large,680,28,20,105,0,98
+Tim Hortons, Oct 2021, Canada, 0,Chocolate Creamy Chill - Small,380,17,12,54,1,50
+Tim Hortons, Oct 2021, Canada, 0,Chocolate Creamy Chill - Medium,500,22,15,74,1,69
+Tim Hortons, Oct 2021, Canada, 0,Chocolate Creamy Chill - Large,620,27,19,94,1,87
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Creamy Chill - Small,390,16,12,59,0,54
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Creamy Chill - Medium,520,21,15,81,0,75
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Creamy Chill - Large,660,27,18,102,0,95
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Creamy Chill - Small,380,16,11,57,0,53
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Creamy Chill - Medium,500,20,14,73,0,69
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Creamy Chill - Large,630,25,17,95,0,89
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Smoothie - Small,220,1,0.5,49,0,44
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Smoothie - Medium,310,2,1,67,0,60
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Smoothie - Large,410,2.5,1.5,90,0,81
+Tim Hortons, Oct 2021, Canada, 0,Frozen Lemonade - Small,170,0,0,41,0,38
+Tim Hortons, Oct 2021, Canada, 0,Frozen Lemonade - Medium,250,0.1,0,60,0,56
+Tim Hortons, Oct 2021, Canada, 0,Frozen Lemonade - Large,320,0.1,0,79,0,74
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Frozen Lemonade - Small,200,0,0,51,0,47
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Frozen Lemonade - Medium,280,0,0,70,0,64
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Frozen Lemonade - Large,380,0.1,0,94,0,86
+Tim Hortons, Oct 2021, Canada, 0,Classic Lemonade - Small,90,0,0,23,0,21
+Tim Hortons, Oct 2021, Canada, 0,Classic Lemonade - Medium,110,0,0,30,0,28
+Tim Hortons, Oct 2021, Canada, 0,Classic Lemonade - Large,140,0,0,39,0,36
+Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Small,110,0,0,29,0,26
+Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Medium,150,0,0,39,0,35
+Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Large,190,0,0,50,0,45
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Small,110,0,0,28,0,25
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Medium,150,0,0,38,0,34
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Large,190,0,0,49,0,44
+
+
+McDonalds, Aug 2017,Canada,250,1% Partly Skimmed Chocolate Milk,170,2.5,1.5,26,0,26
+McDonalds, Aug 2017,Canada,250,1% Partly Skimmed Milk,110,2.5,1.5,12,0,12
+McDonalds, Aug 2017,Canada,325,Barq's® Root Beer - Child,120,0,0,30,0,30
+McDonalds, Aug 2017,Canada,890,Barq's® Root Beer - Large,340,0,0,87,0,87
+McDonalds, Aug 2017,Canada,609,Barq's® Root Beer - Medium,230,0,0,59,0,59
+McDonalds, Aug 2017,Canada,444,Barq's® Root Beer - Small,160,0,0,41,0,41
+McDonalds, Aug 2017,Canada,325,Coca-Cola Zero® - Child,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,890,Coca-Cola Zero® - Large,2,0,0,0,0,0
+McDonalds, Aug 2017,Canada,609,Coca-Cola Zero® - Medium,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,444,Coca-Cola Zero® - Small,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,325,Coca-Cola® - Child,110,0,0,28,0,28
+McDonalds, Aug 2017,Canada,890,Coca-Cola® - Large,320,0,0,82,0,82
+McDonalds, Aug 2017,Canada,609,Coca-Cola® - Medium,220,0,0,56,0,56
+McDonalds, Aug 2017,Canada,444,Coca-Cola® - Small,150,0,0,39,0,39
+McDonalds, Aug 2017,Canada,325,Diet Coke® - Child,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,890,Diet Coke® - Large,2,0,0,0,0,0
+McDonalds, Aug 2017,Canada,609,Diet Coke® - Medium,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,444,Diet Coke® - Small,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,325,Fruitopia® Orange Groove - Child,110,0,0,33,0,31
+McDonalds, Aug 2017,Canada,890,Fruitopia® Orange Groove - Large,340,0,0,95,0,91
+McDonalds, Aug 2017,Canada,609,Fruitopia® Orange Groove - Medium,230,0,0,64,0,62
+McDonalds, Aug 2017,Canada,444,Fruitopia® Orange Groove - Small,160,0,0,45,0,43
+McDonalds, Aug 2017,Canada,325,Fruitopia® Strawberry Passion Awareness® - Child,120,0,0,31,0,30
+McDonalds, Aug 2017,Canada,890,Fruitopia® Strawberry Passion Awareness® - Large,350,0,0,91,0,88
+McDonalds, Aug 2017,Canada,609,Fruitopia® Strawberry Passion Awareness® - Medium,240,0,0,61,0,59
+McDonalds, Aug 2017,Canada,444,Fruitopia® Strawberry Passion Awareness® - Small,170,0,0,43,0,41
+McDonalds, Aug 2017,Canada,280,Higgins & Burke Hot Chocolate,200,9,6,26,0,23
+McDonalds, Aug 2017,Canada,460,Juice - Apple - Large,210,0,0,51,0,47
+McDonalds, Aug 2017,Canada,360,Juice - Apple - Medium,160,0,0,40,0,37
+McDonalds, Aug 2017,Canada,234,Juice - Apple - Small,110,0,0,26,0,24
+McDonalds, Aug 2017,Canada,460,Juice - Orange - Large,220,0,0,52,0,46
+McDonalds, Aug 2017,Canada,234,Juice - Orange - Small,110,0,0,26,0,23
+McDonalds, Aug 2017,Canada,371,Juice- Orange - Medium,180,0,0,42,0,37
+McDonalds, Aug 2017,Canada,325,Nestea® Iced Tea - Child,80,0,0,20,0,20
+McDonalds, Aug 2017,Canada,890,Nestea® Iced Tea - Large,230,0,0,59,0,59
+McDonalds, Aug 2017,Canada,609,Nestea® Iced Tea - Medium,160,0,0,40,0,40
+McDonalds, Aug 2017,Canada,444,Nestea® Iced Tea - Small,110,0,0,28,0,28
+McDonalds, Aug 2017,Canada,444,Sprite® - Child,110,0,0,28,0,28
+McDonalds, Aug 2017,Canada,890,Sprite® - Large,290,0,0,75,0,75
+McDonalds, Aug 2017,Canada,609,Sprite® - Medium,200,0,0,51,0,51
+McDonalds, Aug 2017,Canada,444,Sprite® - Small,140,0,0,35,0,35
+McDonalds, Aug 2017,Canada,550,Americano - Large,5,0,0,0,0,0
+McDonalds, Aug 2017,Canada,420,Americano - Medium,4,0,0,0,0,0
+McDonalds, Aug 2017,Canada,275,Americano - Small,3,0,0,0,0,0
+McDonalds, Aug 2017,Canada,440,Cappuccino with 2% milk - Large,190,7,4,15,0,16
+McDonalds, Aug 2017,Canada,310,Cappuccino with 2% milk - Medium,130,5,3,11,0,12
+McDonalds, Aug 2017,Canada,190,Cappuccino with 2% milk - Small,80,3,2,7,0,7
+McDonalds, Aug 2017,Canada,440,Cappuccino with skim milk - Large,110,0,0,017,0,16
+McDonalds, Aug 2017,Canada,310,Cappuccino with skim milk - Medium,80,0,0,12,0,11
+McDonalds, Aug 2017,Canada,190,Cappuccino with skim milk - Small,50,0,0,8,0,7
+McDonalds, Aug 2017,Canada,493,Caramel Cappuccino with 2% milk - Large,310,7,4,45,0,46
+McDonalds, Aug 2017,Canada,353,Caramel Cappuccino with 2% milk - Medium,230,5,3,35,0,36
+McDonalds, Aug 2017,Canada,222,Caramel Cappuccino with 2% milk - Small,160,3,2,25,0,25
+McDonalds, Aug 2017,Canada,493,Caramel Cappuccino with skim milk - Large,230,0,0,47,0,46
+McDonalds, Aug 2017,Canada,353,Caramel Cappuccino with skim milk - Medium,180,0,0,36,0,35
+McDonalds, Aug 2017,Canada,222,Caramel Cappuccino with skim milk - Small,120,0,0,26,0,25
+McDonalds, Aug 2017,Canada,587,Caramel Iced Coffee - Large,190,11,7,19,0,19
+McDonalds, Aug 2017,Canada,468,Caramel Iced Coffee - Medium,130,8,4.5,14,0,14
+McDonalds, Aug 2017,Canada,333,Caramel Iced Coffee - Small,100,6,3.5,10,0,9
+McDonalds, Aug 2017,Canada,560,Caramel Latte with 2% milk - Large,340,8,4.5,48,0,49
+McDonalds, Aug 2017,Canada,409,Caramel Latte with 2% milk - Medium,260,6,3.5,37,0,38
+McDonalds, Aug 2017,Canada,287,Caramel Latte with 2% milk - Small,190,4.5,2.5,28,0,28
+McDonalds, Aug 2017,Canada,560,Caramel Latte with skim milk - Large,250,0,0,50,0,49
+McDonalds, Aug 2017,Canada,409,Caramel Latte with skim milk - Medium,190,0,0,39,0,38
+McDonalds, Aug 2017,Canada,287,Caramel Latte with skim milk - Small,140,0,0,29,0,28
+McDonalds, Aug 2017,Canada,564,Coffee - Large,5,0,0,0,0,0
+McDonalds, Aug 2017,Canada,442,Coffee - Medium,4,0,0,0,0,0
+McDonalds, Aug 2017,Canada,292,Coffee - Small,3,0,0,0,0,0
+McDonalds, Aug 2017,Canada,592,Coffee Iced Frappé - Large,590,23,15,85,0,77
+McDonalds, Aug 2017,Canada,479,Coffee Iced Frappé - Medium,480,18,12,69,0,62
+McDonalds, Aug 2017,Canada,376,Coffee Iced Frappé - Small,370,14,10,54,0,49
+McDonalds, Aug 2017,Canada,255,Coffee Iced Frappé - Snack Size,250,10,6,36,0,33
+McDonalds, Aug 2017,Canada,558,Deluxe Hot Chocolate with 2% milk - Large,500,14,8,72,3,71
+McDonalds, Aug 2017,Canada,451,Deluxe Hot Chocolate with 2% milk - Medium,400,12,7,57,2,55
+McDonalds, Aug 2017,Canada,266,Deluxe Hot Chocolate with 2% milk - Small,250,8,4.5,37,2,36
+McDonalds, Aug 2017,Canada,557,Deluxe Hot Chocolate with skim milk - Large,400,5,3.5,74,3,71
+McDonalds, Aug 2017,Canada,451,Deluxe Hot Chocolate with skim milk = Medium,320,5,3,58,2,55
+McDonalds, Aug 2017,Canada,266,Deluxe Hot Chocolate with skim milk - Small,210,3.5,2,38,2,36
+McDonalds, Aug 2017,Canada,60,Double Espresso,5,0,0,0,0,0
+McDonalds, Aug 2017,Canada,30,Espresso,3,0,0,0,0,0
+McDonalds, Aug 2017,Canada,570,Frozen Lemonade - Large,250,0,0,64,1,59
+McDonalds, Aug 2017,Canada,448,Frozen Lemonade - Medium,200,0,0,50,1,46
+McDonalds, Aug 2017,Canada,354,Frozen Lemonade - Small,160,0,0,40,0,37
+McDonalds, Aug 2017,Canada,255,Frozen Lemonade - Snack Size,110,0,0,29,0,26
+McDonalds, Aug 2017,Canada,600,Iced Coffee - Large,230,11,7,30,0,30
+McDonalds, Aug 2017,Canada,478,Iced Coffee - Medium,170,8,4.5,22,0,22
+McDonalds, Aug 2017,Canada,340,Iced Coffee - Small,120,6,3.5,15,0,15
+McDonalds, Aug 2017,Canada,532,Latte with 2% milk - Large,240,9,5,19,0,20
+McDonalds, Aug 2017,Canada,386,Latte with 2% milk - Medium,170,7,3.5,14,0,15
+McDonalds, Aug 2017,Canada,270,Latte with 2% milk - Small,130,5,2.5,10,0,11
+McDonalds, Aug 2017,Canada,532,Latte with skim milk - Large,140,0,0,21,0,20
+McDonalds, Aug 2017,Canada,386,Latte with skim milk - Medium,100,0,0,16,0,15
+McDonalds, Aug 2017,Canada,270,Latte with skim milk - Small,70,0,0,11,0,11
+McDonalds, Aug 2017,Canada,608,Mocha with 2% milk – Large,490,13,8,70,3,69
+McDonalds, Aug 2017,Canada,463,Mocha with 2% milk – Medium,380,11,7,55,2,53
+McDonalds, Aug 2017,Canada,299,Mocha with 2% milk – Small,260,8,4.5,37,2,36
+McDonalds, Aug 2017,Canada,608,Mocha with skim milk – Large,400,5,3.5,72,3,69
+McDonalds, Aug 2017,Canada,463,Mocha with skim milk – Medium,320,5,3,72,3,69
+McDonalds, Aug 2017,Canada,299,Mocha with skim milk – Small,210,3.5,2,38,2,36
+McDonalds, Aug 2017,Canada,484,Sugar Free Vanilla Cappuccino with 2% milk - Large,190,7,4,24,0,16
+McDonalds, Aug 2017,Canada,345,Sugar Free Vanilla Cappuccino with 2% milk - Medium,140,5,3,18,0,12
+McDonalds, Aug 2017,Canada,217,Sugar Free Vanilla Cappuccino with 2% milk - Small,90,3,2,13,0,7
+McDonalds, Aug 2017,Canada,484,Sugar Free Vanilla Cappuccino with skim milk - Large,120,0,0,26,0,16
+McDonalds, Aug 2017,Canada,345,Sugar Free Vanilla Cappuccino with skim milk - Medium,80,0,0,19,0,11
+McDonalds, Aug 2017,Canada,217,Sugar Free Vanilla Cappuccino with skim milk - Small,50,0,0,13,0,7
+McDonalds, Aug 2017,Canada,587,Sugar Free Vanilla Iced Coffee - Large,130,11,7,9,0,2
+McDonalds, Aug 2017,Canada,477,Sugar Free Vanilla Iced Coffee - Medium,100,9,6,7,0,2
+McDonalds, Aug 2017,Canada,322,Sugar Free Vanilla Iced Coffee - Small,60,6,3.5,4,0,1
+McDonalds, Aug 2017,Canada,551,Sugar Free Vanilla Latte with 2% milk - Large,230,8,4.5,27,0,19
+McDonalds, Aug 2017,Canada,401,Sugar Free Vanilla Latte with 2% milk - Medium,170,6,3.5,21,0,14
+McDonalds, Aug 2017,Canada,282,Sugar Free Vanilla Latte with 2% milk - Small,120,4.5,2.5,15,0,10
+McDonalds, Aug 2017,Canada,551,Sugar Free Vanilla Latte with skim milk - Large,140,0,0,29,0,19
+McDonalds, Aug 2017,Canada,401,Sugar Free Vanilla Latte with skim milk - Medium,100,0,0,22,0,14
+McDonalds, Aug 2017,Canada,282,Sugar Free Vanilla Latte with skim milk - Small,70,0,0,16,0,10
+McDonalds, Aug 2017,Canada,494,Vanilla Cappuccino with 2% milk - Large,320,7,4,49,0,50
+McDonalds, Aug 2017,Canada,353,Vanilla Cappuccino with 2% milk - Medium,240,5,3,38,0,39
+McDonalds, Aug 2017,Canada,223,Vanilla Cappuccino with 2% milk - Small,160,3,2,27,0,28
+McDonalds, Aug 2017,Canada,494,Vanilla Cappuccino with skim milk - Large,240,0,0,51,0,50
+McDonalds, Aug 2017,Canada,353,Vanilla Cappuccino with skim milk - Medium,190,0,0,39,0,39
+McDonalds, Aug 2017,Canada,223,Vanilla Cappuccino with skim milk - Small,130,0,0,28,0,28
+McDonalds, Aug 2017,Canada,589,Vanilla Chai Iced Frappé - Large,720,29,19,100,0,98
+McDonalds, Aug 2017,Canada,476,Vanilla Chai Iced Frappé - Medium,580,24,15,81,0,79
+McDonalds, Aug 2017,Canada,375,Vanilla Chai Iced Frappé - Small,460,19,12,63,0,63
+McDonalds, Aug 2017,Canada,253,Vanilla Chai Iced Frappé - Snack Size,310,13,8,43,0,42
+McDonalds, Aug 2017,Canada,587,Vanilla Iced Coffee - Large,190,11,7,21,0,21
+McDonalds, Aug 2017,Canada,477,Vanilla Iced Coffee - Medium,150,9,6,16,0,16
+McDonalds, Aug 2017,Canada,333,Vanilla Iced Coffee - Small,100,6,3.5,11,0,10
+McDonalds, Aug 2017,Canada,561,Vanilla Latte with 2% milk - Large,650,8,4.5,52,0,53
+McDonalds, Aug 2017,Canada,409,Vanilla Latte with 2% milk - Medium,270,6,3.5,40,0,41
+McDonalds, Aug 2017,Canada,288,Vanilla Latte with 2% milk - Small,200,4.5,2.5,30,0,31
+McDonalds, Aug 2017,Canada,561,Vanilla Latte with skim milk - Large,260,0,0,54,0,53
+McDonalds, Aug 2017,Canada,409,Vanilla Latte with skim milk - Medium,200,0,0,42,0,41
+McDonalds, Aug 2017,Canada,288,Vanilla Latte with skim milk - Small,150,0,0,31,0,31
+
+
+
+
+
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - Large,330,18,3,47,10,22
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - Medium,250,13,2,36,8,17
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - Small,170,9,1.5,25,5,12
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - XLarge,430,22,3.5,62,13,29
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - Large,400,18,3,61,8,47
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - Medium,290,13,2,43,6,33
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - Small,200,9,1.5,29,4,23
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - XLarge	,480,23,3.5,72,10,56
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - Medium,200,1,0.2,50,4,35
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - Small,150,0.5,0.2,37,3,26
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - Large	,260,1.5,0.3,63,4,44
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - XLarge,350,1.5,0.4,87,7,61
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - Large,280,1.5,0.2,67,1,62
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - Medium,240,1,0.1,56,1,52
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - Small,	190,	1,	0.1,44,	1,	41	
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - XLarge,	420,	2,	0.2,100,	2,	93
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - Large,440,0.5,0.5,102,1,77
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - Medium,350,0.5,0.4,82,1,63
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - Small,260,0.3,0.2,62,1,49
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - XLarge,610,1,0.5,143,1,112
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - Large,270,1,0.1,64,6,53 
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - Medium,200,1,0.1,49,5,40	
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - Small,130,0.5,0.1,32,4,26	 
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - XLarge,330,1.5,0.2,80,9,67
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - Large,480,0.5,0.4,113,1,87
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - Medium,390,0.4,0.3,91,1,72
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - Small,290,0.3,0.2,69,1,56
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - XLarge,680,0.5,0.5,160,2,128
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - Large,460,1,0.5,109,3,78
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - Medium,370,0.5,0.4,86,2,64
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - Small,270,0.4,0.2,64,2,49
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - XLarge,640,1,0.5,151,4,112
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - Large,420,0.5,0.4,99,1,73
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - Medium,340,0.5,0.3,79,1,60
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - Small,250,0.3,0.2,60,1,46
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - XLarge,590,1,0.5,139,2,106
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - Large,310,2,0.2,74,3,64
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - Medium,250,1.5,0.1,60,3,52
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - Small,190,1,0.1,47,2,41
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - XLarge,420,0,2.5,100,4,90
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - Large,480,0.5,0.4,113,2,90
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - Medium,390,0.4,0.3,91,2,74
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - Small,290,0.3,0.2,69,1,57
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - XLarge,680,0.5,0.5,161,3,131	
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - Large,470,0.5,0.3,111,2,92
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - Medium,360,0.5,0.3,85,2,70
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - Small,250,0.4,0.2,59,1,47
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - XLarge,610,1,0.5,144,3,17
+Orange Julius,2020,Canada,0,3 Berry Daylight - Large,260,0,0,64,2,62
+Orange Julius,2020,Canada,0,3 Berry Daylight - Small,160,0,0,39,1,37 
+Orange Julius,2020,Canada,0,3 Berry Daylight - Medium,210,0,0,51,1,49	
+Orange Julius,2020,Canada,0,3 Berry Daylight - XLarge,360,0,0,90,2,87
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - Large,260,0,0,64,1,60	
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - Medium,210,0,0,51,1,49 
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - Small,160,0,0,39,1,37
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - XLarge,360,0,0,0,2,85	
+Orange Julius,2020,Canada,0,Strawberry Delight - Small,170,0,0,43,2,39	
+Orange Julius,2020,Canada,0,Strawberry Delight - Medium,220,0,0,55,2,50	
+Orange Julius,2020,Canada,0,Strawberry Delight - Large,270,0,0,67,3,60
+Orange Julius,2020,Canada,0,Strawberry Delight - XLarge,390,0,0,98,4,89	
+Orange Julius,2020,Canada,0,Tropical Sunlight - Large,270,0,0,66,1,62
+Orange Julius,2020,Canada,0,Tropical Sunlight - Small,180,0,0,44,1,41
+Orange Julius,2020,Canada,0,Tropical Sunlight - Medium,220,0,0,54,1,51 
+Orange Julius,2020,Canada,0,Tropical Sunlight - XLarge,390,0,0,97,1,92	
+Orange Julius,2020,Canada,0,Tripleberry Julius - Small,340,4.5,4.5,74,1,68
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Large,470,0.3,70,117,1,114	
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Medium,320,0.2,0,78,1,75
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Simple Syrup - Large,690,0.1,0,180,1,176
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Simple Syrup - Medium,450,0.1,0,119,1,116
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Simple Syrup - Small,340,0,0,91,1,88
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Small,240,0.1,0,59,0,57
+Orange Julius,2020,Canada,0,Orange Julius - Large,400,0.5,0.1,98,1,90
+Orange Julius,2020,Canada,0,Orange Julius - Medium,260,0.5,0,63,1,57
+Orange Julius,2020,Canada,0,Orange Julius - Simple Syrup - Large,410,0.4,0.1,108,1,101
+Orange Julius,2020,Canada,0,Orange Julius - Simple Syrup - Medium,270,0.2,0,71,0,67
+Orange Julius,2020,Canada,0,Orange Julius - Simple Syrup - Small,210,0.2,0,54,0,51
+Orange Julius,2020,Canada,0,Orange Julius - Small,200,0.3,0,49,0,45
+Orange Julius,2020,Canada,0,Pina Colada Julius - Large,820,9,9,182,4,169
+Orange Julius,2020,Canada,0,Pina Colada Julius - Medium,540,7,6,117,3,107
+Orange Julius,2020,Canada,0,Pina Colada Julius - Simple Syrup - Large,790,12,11,175,4,160
+Orange Julius,2020,Canada,0,Pina Colada Julius - Simple Syrup - Medium,520,8,7,115,3,105
+Orange Julius,2020,Canada,0,Pina Colada Julius - Simple Syrup - Small,400,6,6,88,2,80
+Orange Julius,2020,Canada,0,Pina Colada Julius - Small,390,4.5,4.5,87,2,80
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Simple Syrup - Large,810,12,11,181,4,161
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Large,670,9,9,145,3,128
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Medium,460,7,7,98,2,86
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Simple Syrup - Medium,530,8,7,119,3,106
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Simple Syrup - Small,410,6,6,91,2,81
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Small,330,4.5,4.5,71,2,63
+Orange Julius,2020,Canada,0,Strawberry Julius - Large,450,0.3,0,113,1,110
+Orange Julius,2020,Canada,0,Strawberry Julius - Medium,300,0.2,0,75,1,72
+Orange Julius,2020,Canada,0,Strawberry Julius - Simple Syrup - Large,600,0.1,0,160,2,156
+Orange Julius,2020,Canada,0,Strawberry Julius - Simple Syrup - Medium,400,0.1,0,105,1,102
+Orange Julius,2020,Canada,0,Strawberry Julius - Simple Syrup - Small,300,0.1,0,80,1,78
+Orange Julius,2020,Canada,0,Strawberry Julius - Small,230,0.2,0,57,1,55
+Orange Julius,2020,Canada,0,Tripleberry Julius - Large,680,9,9,147,2,135
+Orange Julius,2020,Canada,0,Tripleberry Julius - Medium,470,7,6,101,2,92
+Orange Julius,2020,Canada,0,Tripleberry Julius - Small,340,4.5,4.5,74,1,68
+Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Large,910,12,11,207,3,192
+Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Medium,600,8,7,136,2,126
+Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Small,460,6,6,104,2,96
