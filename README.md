@@ -26,3 +26,18 @@ tim hortons, mcdonalds, orange julius, jugo juice
 |                     | 39 g | 12 | 354 |
 |                     | 52 g | 16 | 473 |
 |                     | 65 g | 20 | 591 |
+
+
+The **WHO** guideline recommends adults and children *reduce their daily intake of free sugars ~ 25 g (6 tsps) per day*
+
+This includes: 
+- glucose and dextrose, fructose, household sugar (sucrose)
+- malt sugar (maltose) and also sugars that are found in honey, syrups, fruit juices and fruit juice concentrates. 
+- Free sugars are either added to the food by the consumers themselves (e.g. sugar in coffee, honey in muesli, …), but they are also found in many processed foods (e.g. ready meals, soft drinks, cookies) and in the catering sector (e.g. sugar in desserts)
+
+
+
+
+
+
+
