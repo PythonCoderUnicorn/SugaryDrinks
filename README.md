@@ -3,7 +3,7 @@
 A dataset for North American beverages and their sugar content
 
 ## Companies
-tim hortons, mcdonalds, orange julius 
+tim hortons, mcdonalds, orange julius, jugo juice
 
 
 ### Excluded drinks
