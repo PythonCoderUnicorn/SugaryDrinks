@@ -27,7 +27,12 @@ tim hortons, mcdonalds, orange julius, jugo juice, booster juice
 |                     | 52 g | 16 | 473 |
 |                     | 65 g | 20 | 591 |
 |                     |      | 22 | 650 |
+|                     |      |    |     |
 
+| pasta  | size |  carbs |
+|--------|-------|-------|
+| macaroni (wheat durum semolina) | 3/4 cup (85 g) | 67 g |
+| calories: 310, fat: 1.5, sat. fat: 0.4g fiber: 4g sugar: 2g |
 
 The **WHO** guideline recommends adults and children *reduce their daily intake of free sugars ~ 25 g (6 tsps) per day*
 
