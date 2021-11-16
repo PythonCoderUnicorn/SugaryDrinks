@@ -26,6 +26,7 @@ tim hortons, mcdonalds, orange julius, jugo juice, booster juice
 |                     | 39 g | 12 | 354 |
 |                     | 52 g | 16 | 473 |
 |                     | 65 g | 20 | 591 |
+|                     |      | 22 | 650 |
 
 
 The **WHO** guideline recommends adults and children *reduce their daily intake of free sugars ~ 25 g (6 tsps) per day*
