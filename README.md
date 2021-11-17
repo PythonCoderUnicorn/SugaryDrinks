@@ -7,7 +7,7 @@ tim hortons, mcdonalds, orange julius, jugo juice, booster juice, second cup (co
 
 
 ### Excluded drinks
-- smoothies excluded, serving in grams ??? instead of ml   [ another dataset for smoothies ?]
+- McDonalds smoothies are excluded, as their serving size is in grams. 
 
 
 | Teaspoons to grams | Coca-Cola Sugar | US oz. | ml |
