@@ -1,4 +1,4 @@
-<img height="250" align="right" src"https://github.com/PythonCoderUnicorn/SugaryDrinks/blob/main/logo/sugar.png">
+<img height="250" align="right" src="https://github.com/PythonCoderUnicorn/SugaryDrinks/blob/main/logo/sugar.png">
 
 
 # SugaryDrinks
