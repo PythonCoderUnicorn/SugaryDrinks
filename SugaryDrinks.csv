@@ -1,4 +1,4 @@
-Company, Data_Date, Country, ServSize_ml, Item, Calories, Fat_g, SatFat_g, Carbs_g, Fibre_g,Sugars_Total_g
+Company, Data_Date, Country, ServSize_ml, Item, Calories, Fat_g, SatFat_g, Carbs_g, Fibre_g, Sugars_Total_g
 Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Small",3,0,0,0,0,0
 Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Medium",4,0,0,0,0,0
 Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Large",5,0,0,0,0,0
@@ -100,8 +100,6 @@ Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Large,190,0,0,50,0,45
 Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Small,110,0,0,28,0,25
 Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Medium,150,0,0,38,0,34
 Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Large,190,0,0,49,0,44
-
-
 McDonalds, Aug 2017,Canada,250,1% Partly Skimmed Chocolate Milk,170,2.5,1.5,26,0,26
 McDonalds, Aug 2017,Canada,250,1% Partly Skimmed Milk,110,2.5,1.5,12,0,12
 McDonalds, Aug 2017,Canada,325,Barq's® Root Beer - Child,120,0,0,30,0,30
@@ -235,11 +233,6 @@ McDonalds, Aug 2017,Canada,288,Vanilla Latte with 2% milk - Small,200,4.5,2.5,30
 McDonalds, Aug 2017,Canada,561,Vanilla Latte with skim milk - Large,260,0,0,54,0,53
 McDonalds, Aug 2017,Canada,409,Vanilla Latte with skim milk - Medium,200,0,0,42,0,41
 McDonalds, Aug 2017,Canada,288,Vanilla Latte with skim milk - Small,150,0,0,31,0,31
-
-
-
-
-
 Orange Julius,2020,Canada,0,Avocado Split Smoothie - Large,330,18,3,47,10,22
 Orange Julius,2020,Canada,0,Avocado Split Smoothie - Medium,250,13,2,36,8,17
 Orange Julius,2020,Canada,0,Avocado Split Smoothie - Small,170,9,1.5,25,5,12
@@ -341,13 +334,6 @@ Orange Julius,2020,Canada,0,Tripleberry Julius - Small,340,4.5,4.5,74,1,68
 Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Large,910,12,11,207,3,192
 Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Medium,600,8,7,136,2,126
 Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Small,460,6,6,104,2,96
-
-
-
-
-
-
-
 7-Up,2021,USA,591,Bottle,260,0,0,0,0,71	
 Brisk Lemon Iced Tea,2021,USA,591,Bottle,210,0,0,54,0,54
 Brisk Lemonade,2021,USA, 591,Bottle,240,0,0,61,0,61
@@ -356,9 +342,6 @@ Dr. Pepper,2021,USA,591,Bottle,240,0,0,64,0,64
 Mountain Dew,2021,USA, 591,Bottle,280,0,0,75,0,77	 
 Mug Root Beer,2021,USA, 591,Bottle,270,0,0,75,0,72	
 Pepsi,2021,USA,591,Bottle,260,0,0,69,0,69	 
-
-
-
 JugoJuice,Nov 2021,USA,70.7,Mocha Protein - Smoothie,402,0,0.6,62.6,6.8,42.7
 JugoJuice,Nov 2021,USA,70.7,Gold Digger - Smoothie,257,0,0.4,54.8,4.5,48.9
 JugoJuice,Nov 2021,USA,70.7,Clean Kick - Smoothie,264,0,0.3,62.8,4.7,43.4
@@ -391,10 +374,6 @@ JugoJuice,Nov 2021,USA,70.7,Orange - Juice,195,0,0.1,45.1,0.9,36
 JugoJuice,Nov 2021,USA,70.7,Apple - Juice,210,0,0,52.5,1.8,45
 JugoJuice,Nov 2021,USA,70.7,Carrot - Juice,123,0,0,26.3,1.8,22
 JugoJuice,Nov 2021,USA,70.7,Max Veg - Juice,83,0,0,17.6,2.5,13
-
-
-
-
 BoosterJuice, Nov 2020, USA,0,Bananas-a-whey,360,3,1.5,56,3,46
 BoosterJuice, Nov 2020, USA,0,Banango Burst,330,2,0.5,56,6,39
 BoosterJuice, Nov 2020, USA,0,Berry Cream Sensation,260,2,0.5,57,5,44
@@ -445,11 +424,6 @@ BoosterJuice, Nov 2020, USA,0,Very Berry (Snack Size),140,0.5,0.2,32,3,25
 BoosterJuice, Nov 2020, USA,0,Very Berry,280,1,0.4,63,6,50
 BoosterJuice, Nov 2020, USA,0,Wildberry Rush (Snack Size),90,0.4,0,23,3,16
 BoosterJuice, Nov 2020, USA,0,Wildberry Rush,190,1,0.1,48,7,33
-
-
-
-
-
 Second Cup,Nov 2021,Canada,354,Pistachio Latte - 2% Milk,240,6,4.5,39,0,33
 Second Cup,Nov 2021,Canada,354,Pistachio Latte - Almond Milk,170,4.5,2.5,31,1,25
 Second Cup,Nov 2021,Canada,354,Pistachio Latte - Coconut Milk,210,6,6,38,0,31
