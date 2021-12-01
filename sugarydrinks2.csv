@@ -1,0 +1,885 @@
+Company, Data_Date, Country, ServSize_ml, Item, Calories, Fat_g, SatFat_g, Carbs_g, Fibre_g, Sugars_Total_g
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Small",3,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Medium",4,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Blend Coffee - X Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - Small",3,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - Medium",4,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Dark Roast Coffee - X Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - Small",3,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - Medium",4,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Decaf Coffee - X Large",5,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - Small",70,4,2.5,8,0,8
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - Medium",100,6,4,11,0,11
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - Large",120,8,5,14,0,13
+Tim Hortons, Oct 2021, Canada, 0,"Regular Coffee - X Large",150,9,6,18,0,17
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - Small",130,8,4.5,16,0,16
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - Medium",200,13,8,22,0,21
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - Large",250,15,10,28,0,27
+Tim Hortons, Oct 2021, Canada, 0,"Double Double Coffee - X Large",300,18,11,35,0,34
+Tim Hortons, Oct 2021, Canada, 0,"Latte - Small",90,3.5,2,10,0,9
+Tim Hortons, Oct 2021, Canada, 0,"Latte - Medium",140,5,3.5,14,0,13
+Tim Hortons, Oct 2021, Canada, 0,"Latte - Large",180,7,4.5,18,0,17
+Tim Hortons, Oct 2021, Canada, 0,"Cappuccino - Small",80,3,2,9,0,8
+Tim Hortons, Oct 2021, Canada, 0,"Cappuccino - Medium",120,4.5,3,12,0,11
+Tim Hortons, Oct 2021, Canada, 0,"Cappuccino - Large",150,6,3.5,15,0,14
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - Small",100,1,1,23,1,16
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - Medium",140,1.5,1.5,31,1,22
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - Large",220,2.5,2.5,48,2,33
+Tim Hortons, Oct 2021, Canada, 0,"Coffee Mocha - X Large",250,3,3,54,2,37
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - Small",250,9,9,39,0,31
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - Medium",320,11,11,49,0,40
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - Large",430,15,15,65,0,53
+Tim Hortons, Oct 2021, Canada, 0,"French Vanilla - X Large",570,20,20,86,0,70
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - Small",220,3,2.5,48,1,34
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - Medium",280,4,3,62,2,43
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - Large",30,5,4,82,2,58
+Tim Hortons, Oct 2021, Canada, 0,"Hot Chocolate - X Large",500,7,6,108,3,76
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - Small",250,9,8,43,0,36
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - Medium",320,11,10,55,0,45
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - Large",430,15,14,73,0,60
+Tim Hortons, Oct 2021, Canada, 0,"White Hot Chocolate - X Large",570,20,18,96,0,80
+Tim Hortons, Oct 2021, Canada, 0,"London Fog - Small",110,2,1.5,18,0,18
+Tim Hortons, Oct 2021, Canada, 0,"London Fog - Medium",190,3,2,34,0,33
+Tim Hortons, Oct 2021, Canada, 0,"London Fog - Large",270,4.5,3,50,0,49
+Tim Hortons, Oct 2021, Canada, 0,"Bagged Tea",0,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Steeped Tea",0,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Iced Coffee - Small",110,6,4,13,0,13
+Tim Hortons, Oct 2021, Canada, 0,"Iced Coffee - Medium",150,8,4.5,20,0,19
+Tim Hortons, Oct 2021, Canada, 0,"Iced Coffee - Large",220,13,8,27,0,26
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Coffee - Small",70,1,0.5,14,0,14
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Coffee - Medium",100,1.5,1,21,0,21
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Coffee - Large",140,1.5,1,28,0,28
+Tim Hortons, Oct 2021, Canada, 0,"Original Cold Brew - Small",0,0,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Cold Brew - Medium",0,0.1,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Original Cold Brew - Large",0,0.1,0,0,0,0
+Tim Hortons, Oct 2021, Canada, 0,"Vanilla Cream Cold Brew - Small",120,6,3.5,15,0,15
+Tim Hortons, Oct 2021, Canada, 0,"Vanilla Cream Cold Brew - Medium",160,7,4,22,0,22
+Tim Hortons, Oct 2021, Canada, 0,"Vanilla Cream Cold Brew - Large",240,12,7,30,0,30
+Tim Hortons, Oct 2021, Canada, 0,"Original Iced Capp® - Small",230,11,7,31,0,29
+Tim Hortons, Oct 2021, Canada, 0,"Original Iced Capp® - Medium",310,16,10,41,0,39
+Tim Hortons, Oct 2021, Canada, 0,"Original Iced Capp® - Large",420,22,14,55,0,52
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Capp® - Small",140,1,1,31,0,30
+Tim Hortons, Oct 2021, Canada, 0,"Light Iced Capp® - Medium",190,2,1,41,0,39
+Tim Hortons, Oct 2021, Canada, 0,Light Iced Capp® - Large,260,2.5,1.5,56,0,53
+Tim Hortons, Oct 2021, Canada, 0,Mocha Iced Capp® - Small,350,17,12,50,1,47
+Tim Hortons, Oct 2021, Canada, 0,Mocha Iced Capp® - Medium,450,22,15,63,1,59
+Tim Hortons, Oct 2021, Canada, 0,Mocha Iced Capp® - Large,570,27,19,81,1,76
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Iced Capp® - Small,370,16,12,56,0,54
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Iced Capp® - Medium,510,21,15,79,0,75
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Iced Capp® - Large,670,27,18,106,0,102
+Tim Hortons, Oct 2021, Canada, 0,Caramel Iced Capp® - Small,380,17,13,56,0,52
+Tim Hortons, Oct 2021, Canada, 0,Caramel Iced Capp® - Medium,520,23,16,78,0,73
+Tim Hortons, Oct 2021, Canada, 0,Caramel Iced Capp® - Large,680,28,20,105,0,98
+Tim Hortons, Oct 2021, Canada, 0,Chocolate Creamy Chill - Small,380,17,12,54,1,50
+Tim Hortons, Oct 2021, Canada, 0,Chocolate Creamy Chill - Medium,500,22,15,74,1,69
+Tim Hortons, Oct 2021, Canada, 0,Chocolate Creamy Chill - Large,620,27,19,94,1,87
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Creamy Chill - Small,390,16,12,59,0,54
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Creamy Chill - Medium,520,21,15,81,0,75
+Tim Hortons, Oct 2021, Canada, 0,Vanilla Creamy Chill - Large,660,27,18,102,0,95
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Creamy Chill - Small,380,16,11,57,0,53
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Creamy Chill - Medium,500,20,14,73,0,69
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Creamy Chill - Large,630,25,17,95,0,89
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Smoothie - Small,220,1,0.5,49,0,44
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Smoothie - Medium,310,2,1,67,0,60
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Smoothie - Large,410,2.5,1.5,90,0,81
+Tim Hortons, Oct 2021, Canada, 0,Frozen Lemonade - Small,170,0,0,41,0,38
+Tim Hortons, Oct 2021, Canada, 0,Frozen Lemonade - Medium,250,0.1,0,60,0,56
+Tim Hortons, Oct 2021, Canada, 0,Frozen Lemonade - Large,320,0.1,0,79,0,74
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Frozen Lemonade - Small,200,0,0,51,0,47
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Frozen Lemonade - Medium,280,0,0,70,0,64
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Frozen Lemonade - Large,380,0.1,0,94,0,86
+Tim Hortons, Oct 2021, Canada, 0,Classic Lemonade - Small,90,0,0,23,0,21
+Tim Hortons, Oct 2021, Canada, 0,Classic Lemonade - Medium,110,0,0,30,0,28
+Tim Hortons, Oct 2021, Canada, 0,Classic Lemonade - Large,140,0,0,39,0,36
+Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Small,110,0,0,29,0,26
+Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Medium,150,0,0,39,0,35
+Tim Hortons, Oct 2021, Canada, 0,Peach Quencher - Large,190,0,0,50,0,45
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Small,110,0,0,28,0,25
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Medium,150,0,0,38,0,34
+Tim Hortons, Oct 2021, Canada, 0,Strawberry Watermelon Quencher - Large,190,0,0,49,0,44
+McDonalds, Aug 2017,Canada,250,1% Partly Skimmed Chocolate Milk,170,2.5,1.5,26,0,26
+McDonalds, Aug 2017,Canada,250,1% Partly Skimmed Milk,110,2.5,1.5,12,0,12
+McDonalds, Aug 2017,Canada,325,Barq's® Root Beer - Child,120,0,0,30,0,30
+McDonalds, Aug 2017,Canada,890,Barq's® Root Beer - Large,340,0,0,87,0,87
+McDonalds, Aug 2017,Canada,609,Barq's® Root Beer - Medium,230,0,0,59,0,59
+McDonalds, Aug 2017,Canada,444,Barq's® Root Beer - Small,160,0,0,41,0,41
+McDonalds, Aug 2017,Canada,325,Coca-Cola Zero® - Child,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,890,Coca-Cola Zero® - Large,2,0,0,0,0,0
+McDonalds, Aug 2017,Canada,609,Coca-Cola Zero® - Medium,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,444,Coca-Cola Zero® - Small,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,325,Coca-Cola® - Child,110,0,0,28,0,28
+McDonalds, Aug 2017,Canada,890,Coca-Cola® - Large,320,0,0,82,0,82
+McDonalds, Aug 2017,Canada,609,Coca-Cola® - Medium,220,0,0,56,0,56
+McDonalds, Aug 2017,Canada,444,Coca-Cola® - Small,150,0,0,39,0,39
+McDonalds, Aug 2017,Canada,325,Diet Coke® - Child,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,890,Diet Coke® - Large,2,0,0,0,0,0
+McDonalds, Aug 2017,Canada,609,Diet Coke® - Medium,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,444,Diet Coke® - Small,1,0,0,0,0,0
+McDonalds, Aug 2017,Canada,325,Fruitopia® Orange Groove - Child,110,0,0,33,0,31
+McDonalds, Aug 2017,Canada,890,Fruitopia® Orange Groove - Large,340,0,0,95,0,91
+McDonalds, Aug 2017,Canada,609,Fruitopia® Orange Groove - Medium,230,0,0,64,0,62
+McDonalds, Aug 2017,Canada,444,Fruitopia® Orange Groove - Small,160,0,0,45,0,43
+McDonalds, Aug 2017,Canada,325,Fruitopia® Strawberry Passion Awareness® - Child,120,0,0,31,0,30
+McDonalds, Aug 2017,Canada,890,Fruitopia® Strawberry Passion Awareness® - Large,350,0,0,91,0,88
+McDonalds, Aug 2017,Canada,609,Fruitopia® Strawberry Passion Awareness® - Medium,240,0,0,61,0,59
+McDonalds, Aug 2017,Canada,444,Fruitopia® Strawberry Passion Awareness® - Small,170,0,0,43,0,41
+McDonalds, Aug 2017,Canada,280,Higgins & Burke Hot Chocolate,200,9,6,26,0,23
+McDonalds, Aug 2017,Canada,460,Juice - Apple - Large,210,0,0,51,0,47
+McDonalds, Aug 2017,Canada,360,Juice - Apple - Medium,160,0,0,40,0,37
+McDonalds, Aug 2017,Canada,234,Juice - Apple - Small,110,0,0,26,0,24
+McDonalds, Aug 2017,Canada,460,Juice - Orange - Large,220,0,0,52,0,46
+McDonalds, Aug 2017,Canada,234,Juice - Orange - Small,110,0,0,26,0,23
+McDonalds, Aug 2017,Canada,371,Juice- Orange - Medium,180,0,0,42,0,37
+McDonalds, Aug 2017,Canada,325,Nestea® Iced Tea - Child,80,0,0,20,0,20
+McDonalds, Aug 2017,Canada,890,Nestea® Iced Tea - Large,230,0,0,59,0,59
+McDonalds, Aug 2017,Canada,609,Nestea® Iced Tea - Medium,160,0,0,40,0,40
+McDonalds, Aug 2017,Canada,444,Nestea® Iced Tea - Small,110,0,0,28,0,28
+McDonalds, Aug 2017,Canada,444,Sprite® - Child,110,0,0,28,0,28
+McDonalds, Aug 2017,Canada,890,Sprite® - Large,290,0,0,75,0,75
+McDonalds, Aug 2017,Canada,609,Sprite® - Medium,200,0,0,51,0,51
+McDonalds, Aug 2017,Canada,444,Sprite® - Small,140,0,0,35,0,35
+McDonalds, Aug 2017,Canada,550,Americano - Large,5,0,0,0,0,0
+McDonalds, Aug 2017,Canada,420,Americano - Medium,4,0,0,0,0,0
+McDonalds, Aug 2017,Canada,275,Americano - Small,3,0,0,0,0,0
+McDonalds, Aug 2017,Canada,440,Cappuccino with 2% milk - Large,190,7,4,15,0,16
+McDonalds, Aug 2017,Canada,310,Cappuccino with 2% milk - Medium,130,5,3,11,0,12
+McDonalds, Aug 2017,Canada,190,Cappuccino with 2% milk - Small,80,3,2,7,0,7
+McDonalds, Aug 2017,Canada,440,Cappuccino with skim milk - Large,110,0,0,017,0,16
+McDonalds, Aug 2017,Canada,310,Cappuccino with skim milk - Medium,80,0,0,12,0,11
+McDonalds, Aug 2017,Canada,190,Cappuccino with skim milk - Small,50,0,0,8,0,7
+McDonalds, Aug 2017,Canada,493,Caramel Cappuccino with 2% milk - Large,310,7,4,45,0,46
+McDonalds, Aug 2017,Canada,353,Caramel Cappuccino with 2% milk - Medium,230,5,3,35,0,36
+McDonalds, Aug 2017,Canada,222,Caramel Cappuccino with 2% milk - Small,160,3,2,25,0,25
+McDonalds, Aug 2017,Canada,493,Caramel Cappuccino with skim milk - Large,230,0,0,47,0,46
+McDonalds, Aug 2017,Canada,353,Caramel Cappuccino with skim milk - Medium,180,0,0,36,0,35
+McDonalds, Aug 2017,Canada,222,Caramel Cappuccino with skim milk - Small,120,0,0,26,0,25
+McDonalds, Aug 2017,Canada,587,Caramel Iced Coffee - Large,190,11,7,19,0,19
+McDonalds, Aug 2017,Canada,468,Caramel Iced Coffee - Medium,130,8,4.5,14,0,14
+McDonalds, Aug 2017,Canada,333,Caramel Iced Coffee - Small,100,6,3.5,10,0,9
+McDonalds, Aug 2017,Canada,560,Caramel Latte with 2% milk - Large,340,8,4.5,48,0,49
+McDonalds, Aug 2017,Canada,409,Caramel Latte with 2% milk - Medium,260,6,3.5,37,0,38
+McDonalds, Aug 2017,Canada,287,Caramel Latte with 2% milk - Small,190,4.5,2.5,28,0,28
+McDonalds, Aug 2017,Canada,560,Caramel Latte with skim milk - Large,250,0,0,50,0,49
+McDonalds, Aug 2017,Canada,409,Caramel Latte with skim milk - Medium,190,0,0,39,0,38
+McDonalds, Aug 2017,Canada,287,Caramel Latte with skim milk - Small,140,0,0,29,0,28
+McDonalds, Aug 2017,Canada,564,Coffee - Large,5,0,0,0,0,0
+McDonalds, Aug 2017,Canada,442,Coffee - Medium,4,0,0,0,0,0
+McDonalds, Aug 2017,Canada,292,Coffee - Small,3,0,0,0,0,0
+McDonalds, Aug 2017,Canada,592,Coffee Iced Frappé - Large,590,23,15,85,0,77
+McDonalds, Aug 2017,Canada,479,Coffee Iced Frappé - Medium,480,18,12,69,0,62
+McDonalds, Aug 2017,Canada,376,Coffee Iced Frappé - Small,370,14,10,54,0,49
+McDonalds, Aug 2017,Canada,255,Coffee Iced Frappé - Snack Size,250,10,6,36,0,33
+McDonalds, Aug 2017,Canada,558,Deluxe Hot Chocolate with 2% milk - Large,500,14,8,72,3,71
+McDonalds, Aug 2017,Canada,451,Deluxe Hot Chocolate with 2% milk - Medium,400,12,7,57,2,55
+McDonalds, Aug 2017,Canada,266,Deluxe Hot Chocolate with 2% milk - Small,250,8,4.5,37,2,36
+McDonalds, Aug 2017,Canada,557,Deluxe Hot Chocolate with skim milk - Large,400,5,3.5,74,3,71
+McDonalds, Aug 2017,Canada,451,Deluxe Hot Chocolate with skim milk = Medium,320,5,3,58,2,55
+McDonalds, Aug 2017,Canada,266,Deluxe Hot Chocolate with skim milk - Small,210,3.5,2,38,2,36
+McDonalds, Aug 2017,Canada,60,Double Espresso,5,0,0,0,0,0
+McDonalds, Aug 2017,Canada,30,Espresso,3,0,0,0,0,0
+McDonalds, Aug 2017,Canada,570,Frozen Lemonade - Large,250,0,0,64,1,59
+McDonalds, Aug 2017,Canada,448,Frozen Lemonade - Medium,200,0,0,50,1,46
+McDonalds, Aug 2017,Canada,354,Frozen Lemonade - Small,160,0,0,40,0,37
+McDonalds, Aug 2017,Canada,255,Frozen Lemonade - Snack Size,110,0,0,29,0,26
+McDonalds, Aug 2017,Canada,600,Iced Coffee - Large,230,11,7,30,0,30
+McDonalds, Aug 2017,Canada,478,Iced Coffee - Medium,170,8,4.5,22,0,22
+McDonalds, Aug 2017,Canada,340,Iced Coffee - Small,120,6,3.5,15,0,15
+McDonalds, Aug 2017,Canada,532,Latte with 2% milk - Large,240,9,5,19,0,20
+McDonalds, Aug 2017,Canada,386,Latte with 2% milk - Medium,170,7,3.5,14,0,15
+McDonalds, Aug 2017,Canada,270,Latte with 2% milk - Small,130,5,2.5,10,0,11
+McDonalds, Aug 2017,Canada,532,Latte with skim milk - Large,140,0,0,21,0,20
+McDonalds, Aug 2017,Canada,386,Latte with skim milk - Medium,100,0,0,16,0,15
+McDonalds, Aug 2017,Canada,270,Latte with skim milk - Small,70,0,0,11,0,11
+McDonalds, Aug 2017,Canada,608,Mocha with 2% milk – Large,490,13,8,70,3,69
+McDonalds, Aug 2017,Canada,463,Mocha with 2% milk – Medium,380,11,7,55,2,53
+McDonalds, Aug 2017,Canada,299,Mocha with 2% milk – Small,260,8,4.5,37,2,36
+McDonalds, Aug 2017,Canada,608,Mocha with skim milk – Large,400,5,3.5,72,3,69
+McDonalds, Aug 2017,Canada,463,Mocha with skim milk – Medium,320,5,3,72,3,69
+McDonalds, Aug 2017,Canada,299,Mocha with skim milk – Small,210,3.5,2,38,2,36
+McDonalds, Aug 2017,Canada,484,Sugar Free Vanilla Cappuccino with 2% milk - Large,190,7,4,24,0,16
+McDonalds, Aug 2017,Canada,345,Sugar Free Vanilla Cappuccino with 2% milk - Medium,140,5,3,18,0,12
+McDonalds, Aug 2017,Canada,217,Sugar Free Vanilla Cappuccino with 2% milk - Small,90,3,2,13,0,7
+McDonalds, Aug 2017,Canada,484,Sugar Free Vanilla Cappuccino with skim milk - Large,120,0,0,26,0,16
+McDonalds, Aug 2017,Canada,345,Sugar Free Vanilla Cappuccino with skim milk - Medium,80,0,0,19,0,11
+McDonalds, Aug 2017,Canada,217,Sugar Free Vanilla Cappuccino with skim milk - Small,50,0,0,13,0,7
+McDonalds, Aug 2017,Canada,587,Sugar Free Vanilla Iced Coffee - Large,130,11,7,9,0,2
+McDonalds, Aug 2017,Canada,477,Sugar Free Vanilla Iced Coffee - Medium,100,9,6,7,0,2
+McDonalds, Aug 2017,Canada,322,Sugar Free Vanilla Iced Coffee - Small,60,6,3.5,4,0,1
+McDonalds, Aug 2017,Canada,551,Sugar Free Vanilla Latte with 2% milk - Large,230,8,4.5,27,0,19
+McDonalds, Aug 2017,Canada,401,Sugar Free Vanilla Latte with 2% milk - Medium,170,6,3.5,21,0,14
+McDonalds, Aug 2017,Canada,282,Sugar Free Vanilla Latte with 2% milk - Small,120,4.5,2.5,15,0,10
+McDonalds, Aug 2017,Canada,551,Sugar Free Vanilla Latte with skim milk - Large,140,0,0,29,0,19
+McDonalds, Aug 2017,Canada,401,Sugar Free Vanilla Latte with skim milk - Medium,100,0,0,22,0,14
+McDonalds, Aug 2017,Canada,282,Sugar Free Vanilla Latte with skim milk - Small,70,0,0,16,0,10
+McDonalds, Aug 2017,Canada,494,Vanilla Cappuccino with 2% milk - Large,320,7,4,49,0,50
+McDonalds, Aug 2017,Canada,353,Vanilla Cappuccino with 2% milk - Medium,240,5,3,38,0,39
+McDonalds, Aug 2017,Canada,223,Vanilla Cappuccino with 2% milk - Small,160,3,2,27,0,28
+McDonalds, Aug 2017,Canada,494,Vanilla Cappuccino with skim milk - Large,240,0,0,51,0,50
+McDonalds, Aug 2017,Canada,353,Vanilla Cappuccino with skim milk - Medium,190,0,0,39,0,39
+McDonalds, Aug 2017,Canada,223,Vanilla Cappuccino with skim milk - Small,130,0,0,28,0,28
+McDonalds, Aug 2017,Canada,589,Vanilla Chai Iced Frappé - Large,720,29,19,100,0,98
+McDonalds, Aug 2017,Canada,476,Vanilla Chai Iced Frappé - Medium,580,24,15,81,0,79
+McDonalds, Aug 2017,Canada,375,Vanilla Chai Iced Frappé - Small,460,19,12,63,0,63
+McDonalds, Aug 2017,Canada,253,Vanilla Chai Iced Frappé - Snack Size,310,13,8,43,0,42
+McDonalds, Aug 2017,Canada,587,Vanilla Iced Coffee - Large,190,11,7,21,0,21
+McDonalds, Aug 2017,Canada,477,Vanilla Iced Coffee - Medium,150,9,6,16,0,16
+McDonalds, Aug 2017,Canada,333,Vanilla Iced Coffee - Small,100,6,3.5,11,0,10
+McDonalds, Aug 2017,Canada,561,Vanilla Latte with 2% milk - Large,650,8,4.5,52,0,53
+McDonalds, Aug 2017,Canada,409,Vanilla Latte with 2% milk - Medium,270,6,3.5,40,0,41
+McDonalds, Aug 2017,Canada,288,Vanilla Latte with 2% milk - Small,200,4.5,2.5,30,0,31
+McDonalds, Aug 2017,Canada,561,Vanilla Latte with skim milk - Large,260,0,0,54,0,53
+McDonalds, Aug 2017,Canada,409,Vanilla Latte with skim milk - Medium,200,0,0,42,0,41
+McDonalds, Aug 2017,Canada,288,Vanilla Latte with skim milk - Small,150,0,0,31,0,31
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - Large,330,18,3,47,10,22
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - Medium,250,13,2,36,8,17
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - Small,170,9,1.5,25,5,12
+Orange Julius,2020,Canada,0,Avocado Split Smoothie - XLarge,430,22,3.5,62,13,29
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - Large,400,18,3,61,8,47
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - Medium,290,13,2,43,6,33
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - Small,200,9,1.5,29,4,23
+Orange Julius,2020,Canada,0,Great Green Mango Smoothie - XLarge	,480,23,3.5,72,10,56
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - Medium,200,1,0.2,50,4,35
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - Small,150,0.5,0.2,37,3,26
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - Large	,260,1.5,0.3,63,4,44
+Orange Julius,2020,Canada,0,Mango Heat Smoothie - XLarge,350,1.5,0.4,87,7,61
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - Large,280,1.5,0.2,67,1,62
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - Medium,240,1,0.1,56,1,52
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - Small,	190,	1,	0.1,44,	1,	41	
+Orange Julius,2020,Canada,0,Mango Lively Smoothie with Almond Breeze - XLarge,	420,	2,	0.2,100,	2,	93
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - Large,440,0.5,0.5,102,1,77
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - Medium,350,0.5,0.4,82,1,63
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - Small,260,0.3,0.2,62,1,49
+Orange Julius,2020,Canada,0,Mango Pineapple Smoothie - XLarge,610,1,0.5,143,1,112
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - Large,270,1,0.1,64,6,53 
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - Medium,200,1,0.1,49,5,40	
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - Small,130,0.5,0.1,32,4,26	 
+Orange Julius,2020,Canada,0,Matcha Machine Smoothie - XLarge,330,1.5,0.2,80,9,67
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - Large,480,0.5,0.4,113,1,87
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - Medium,390,0.4,0.3,91,1,72
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - Small,290,0.3,0.2,69,1,56
+Orange Julius,2020,Canada,0,Pomegranate Berry Blast Smoothie - XLarge,680,0.5,0.5,160,2,128
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - Large,460,1,0.5,109,3,78
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - Medium,370,0.5,0.4,86,2,64
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - Small,270,0.4,0.2,64,2,49
+Orange Julius,2020,Canada,0,Strawberry Banana Smoothie - XLarge,640,1,0.5,151,4,112
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - Large,420,0.5,0.4,99,1,73
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - Medium,340,0.5,0.3,79,1,60
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - Small,250,0.3,0.2,60,1,46
+Orange Julius,2020,Canada,0,Strawberry Watermelon Sensation Smoothie - XLarge,590,1,0.5,139,2,106
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - Large,310,2,0.2,74,3,64
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - Medium,250,1.5,0.1,60,3,52
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - Small,190,1,0.1,47,2,41
+Orange Julius,2020,Canada,0,Strawberry Xtreme Smoothie with Almond Breeze - XLarge,420,0,2.5,100,4,90
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - Large,480,0.5,0.4,113,2,90
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - Medium,390,0.4,0.3,91,2,74
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - Small,290,0.3,0.2,69,1,57
+Orange Julius,2020,Canada,0,Tripleberry Smoothie - XLarge,680,0.5,0.5,161,3,131	
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - Large,470,0.5,0.3,111,2,92
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - Medium,360,0.5,0.3,85,2,70
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - Small,250,0.4,0.2,59,1,47
+Orange Julius,2020,Canada,0,Tropi-Colada Smoothie - XLarge,610,1,0.5,144,3,17
+Orange Julius,2020,Canada,0,3 Berry Daylight - Large,260,0,0,64,2,62
+Orange Julius,2020,Canada,0,3 Berry Daylight - Small,160,0,0,39,1,37 
+Orange Julius,2020,Canada,0,3 Berry Daylight - Medium,210,0,0,51,1,49	
+Orange Julius,2020,Canada,0,3 Berry Daylight - XLarge,360,0,0,90,2,87
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - Large,260,0,0,64,1,60	
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - Medium,210,0,0,51,1,49 
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - Small,160,0,0,39,1,37
+Orange Julius,2020,Canada,0,Berry Pomegranate Twilight - XLarge,360,0,0,0,2,85	
+Orange Julius,2020,Canada,0,Strawberry Delight - Small,170,0,0,43,2,39	
+Orange Julius,2020,Canada,0,Strawberry Delight - Medium,220,0,0,55,2,50	
+Orange Julius,2020,Canada,0,Strawberry Delight - Large,270,0,0,67,3,60
+Orange Julius,2020,Canada,0,Strawberry Delight - XLarge,390,0,0,98,4,89	
+Orange Julius,2020,Canada,0,Tropical Sunlight - Large,270,0,0,66,1,62
+Orange Julius,2020,Canada,0,Tropical Sunlight - Small,180,0,0,44,1,41
+Orange Julius,2020,Canada,0,Tropical Sunlight - Medium,220,0,0,54,1,51 
+Orange Julius,2020,Canada,0,Tropical Sunlight - XLarge,390,0,0,97,1,92	
+Orange Julius,2020,Canada,0,Tripleberry Julius - Small,340,4.5,4.5,74,1,68
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Large,470,0.3,70,117,1,114	
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Medium,320,0.2,0,78,1,75
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Simple Syrup - Large,690,0.1,0,180,1,176
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Simple Syrup - Medium,450,0.1,0,119,1,116
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Simple Syrup - Small,340,0,0,91,1,88
+Orange Julius,2020,Canada,0,Mango Pineapple Julius - Small,240,0.1,0,59,0,57
+Orange Julius,2020,Canada,0,Orange Julius - Large,400,0.5,0.1,98,1,90
+Orange Julius,2020,Canada,0,Orange Julius - Medium,260,0.5,0,63,1,57
+Orange Julius,2020,Canada,0,Orange Julius - Simple Syrup - Large,410,0.4,0.1,108,1,101
+Orange Julius,2020,Canada,0,Orange Julius - Simple Syrup - Medium,270,0.2,0,71,0,67
+Orange Julius,2020,Canada,0,Orange Julius - Simple Syrup - Small,210,0.2,0,54,0,51
+Orange Julius,2020,Canada,0,Orange Julius - Small,200,0.3,0,49,0,45
+Orange Julius,2020,Canada,0,Pina Colada Julius - Large,820,9,9,182,4,169
+Orange Julius,2020,Canada,0,Pina Colada Julius - Medium,540,7,6,117,3,107
+Orange Julius,2020,Canada,0,Pina Colada Julius - Simple Syrup - Large,790,12,11,175,4,160
+Orange Julius,2020,Canada,0,Pina Colada Julius - Simple Syrup - Medium,520,8,7,115,3,105
+Orange Julius,2020,Canada,0,Pina Colada Julius - Simple Syrup - Small,400,6,6,88,2,80
+Orange Julius,2020,Canada,0,Pina Colada Julius - Small,390,4.5,4.5,87,2,80
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Simple Syrup - Large,810,12,11,181,4,161
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Large,670,9,9,145,3,128
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Medium,460,7,7,98,2,86
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Simple Syrup - Medium,530,8,7,119,3,106
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Simple Syrup - Small,410,6,6,91,2,81
+Orange Julius,2020,Canada,0,Strawberry Banana Julius - Small,330,4.5,4.5,71,2,63
+Orange Julius,2020,Canada,0,Strawberry Julius - Large,450,0.3,0,113,1,110
+Orange Julius,2020,Canada,0,Strawberry Julius - Medium,300,0.2,0,75,1,72
+Orange Julius,2020,Canada,0,Strawberry Julius - Simple Syrup - Large,600,0.1,0,160,2,156
+Orange Julius,2020,Canada,0,Strawberry Julius - Simple Syrup - Medium,400,0.1,0,105,1,102
+Orange Julius,2020,Canada,0,Strawberry Julius - Simple Syrup - Small,300,0.1,0,80,1,78
+Orange Julius,2020,Canada,0,Strawberry Julius - Small,230,0.2,0,57,1,55
+Orange Julius,2020,Canada,0,Tripleberry Julius - Large,680,9,9,147,2,135
+Orange Julius,2020,Canada,0,Tripleberry Julius - Medium,470,7,6,101,2,92
+Orange Julius,2020,Canada,0,Tripleberry Julius - Small,340,4.5,4.5,74,1,68
+Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Large,910,12,11,207,3,192
+Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Medium,600,8,7,136,2,126
+Orange Julius,2020,Canada,0,Tripleberry Julius - Simple Syrup - Small,460,6,6,104,2,96
+7-Up,2021,USA,591,Bottle,260,0,0,0,0,71	
+Brisk Lemon Iced Tea,2021,USA,591,Bottle,210,0,0,54,0,54
+Brisk Lemonade,2021,USA, 591,Bottle,240,0,0,61,0,61
+Diet Pepsi,2021,USA,591,Bottle,0,0,0,0,0,0
+Dr. Pepper,2021,USA,591,Bottle,240,0,0,64,0,64 
+Mountain Dew,2021,USA, 591,Bottle,280,0,0,75,0,77	 
+Mug Root Beer,2021,USA, 591,Bottle,270,0,0,75,0,72	
+Pepsi,2021,USA,591,Bottle,260,0,0,69,0,69	 
+JugoJuice,Nov 2021,USA,70.7,Mocha Protein - Smoothie,402,0,0.6,62.6,6.8,42.7
+JugoJuice,Nov 2021,USA,70.7,Gold Digger - Smoothie,257,0,0.4,54.8,4.5,48.9
+JugoJuice,Nov 2021,USA,70.7,Clean Kick - Smoothie,264,0,0.3,62.8,4.7,43.4
+JugoJuice,Nov 2021,USA,70.7,Jugo Cold Brew - Smoothie,362,0,9.7,58.7,6.5,43.6
+JugoJuice,Nov 2021,USA,70.7,Matcha Peachu - Smoothie,263,0,0,61.3,6.4,54.2
+JugoJuice,Nov 2021,USA,70.7,Jugo Classico - Smoothie,157,0,0.1,39.1,3,29
+JugoJuice,Nov 2021,USA,70.7,Mango Magic - Smoothie,303,0,0.1,73,3.2,68
+JugoJuice,Nov 2021,USA,29.6,Mango Magic - Smoothie (Snack Size),175,0,0.1,42.2,2.2,38
+JugoJuice,Nov 2021,USA,70.7,Blushing Mango - Smoothie,307,0,0,74.2,4.4,69
+JugoJuice,Nov 2021,USA,29.6,Blushing Mango - Smoothie (Snack Size),183,0,0.1,44.1,2.7,40
+JugoJuice,Nov 2021,USA,70.7,Berry Banana - Smoothie,269,0,0.1,62.8,4.7,51
+JugoJuice,Nov 2021,USA,70.7,Raspberry Rush - Smoothie,286,0,1.3,62.7,6.1,52
+JugoJuice,Nov 2021,USA,70.7,Dragon Force - Smoothie,219,0,0.3,51.9,3.7,39.6
+JugoJuice,Nov 2021,USA,70.7,Peanut Butter Protein - Smoothie,440,0,2.1,50.7,6.3,22
+JugoJuice,Nov 2021,USA,70.7,Big Blueberry Protein - Smoothie,322,0,1.1,45.6,3.1,39.6
+JugoJuice,Nov 2021,USA,70.7,Very Berry Acai Protein - Smoothie,303,0,1.3,39,2.2,35
+JugoJuice,Nov 2021,USA,70.7,Tropical Green Protein - Smoothie,366,0,0.6,62.5,4.4,24.6
+JugoJuice,Nov 2021,USA,70.7,Mighty Kale - Smoothie,292,0,0.1,68.4,4.7,59
+JugoJuice,Nov 2021,USA,70.7,Green Glow - Smoothie,367,0,1.2,75.8,6.7,57
+JugoJuice,Nov 2021,USA,70.7,Summer Strawberry - Smoothie,237,0,0,57.5,4,51
+JugoJuice,Nov 2021,USA,29.6,Summer Strawberry - Smoothie (Snack Size),140,0,0.2,34.1,2.5,29
+JugoJuice,Nov 2021,USA,70.7,Coco Beach - Smoothie,314,0,4.8,66.4,2.7,54
+JugoJuice,Nov 2021,USA,70.7,Coco Beach - Smoothie (Snack Size),179,0,2.4,39,1.8,30
+JugoJuice,Nov 2021,USA,70.7,Kaleabunga - Smoothie,305,0,0.1,71.5,5,26
+JugoJuice,Nov 2021,USA,70.7,Abundant Acai - Smoothie,315,0,0.6,72.5,3.5,65
+JugoJuice,Nov 2021,USA,70.7,Watermelon Wiggle - Smoothie,225,0,0,55.4,1.1,13
+JugoJuice,Nov 2021,USA,29.6,Watermelon Wiggle - Smoothie (Snack Size),135,0,0,33,0.9,9.5
+JugoJuice,Nov 2021,USA,70.7,Kale Aid - Juice,160,0,0,38.5,1.6,32
+JugoJuice,Nov 2021,USA,70.7,Orange - Juice,195,0,0.1,45.1,0.9,36
+JugoJuice,Nov 2021,USA,70.7,Apple - Juice,210,0,0,52.5,1.8,45
+JugoJuice,Nov 2021,USA,70.7,Carrot - Juice,123,0,0,26.3,1.8,22
+JugoJuice,Nov 2021,USA,70.7,Max Veg - Juice,83,0,0,17.6,2.5,13
+BoosterJuice, Nov 2020, USA,0,Bananas-a-whey,360,3,1.5,56,3,46
+BoosterJuice, Nov 2020, USA,0,Banango Burst,330,2,0.5,56,6,39
+BoosterJuice, Nov 2020, USA,0,Berry Cream Sensation,260,2,0.5,57,5,44
+BoosterJuice, Nov 2020, USA,0,Berry Cream Sensation (Snack Size),130,1,0.4,29,2,22
+BoosterJuice, Nov 2020, USA,0,Brazillian Thunder,410,4,1,90,4,72
+BoosterJuice, Nov 2020, USA,0,Brazillian Thunder (Snack Size),200,2,0.5,45,2,36
+BoosterJuice, Nov 2020, USA,0,Breezy Banana,350,1,0.5,80,5,60
+BoosterJuice, Nov 2020, USA,0,Breezy Banana (Snack Size),170,0.5,0.2,40,2,30
+BoosterJuice, Nov 2020, USA,0,Canadian Colada,370,6,4.5,78,6,62
+BoosterJuice, Nov 2020, USA,0,Canadian Colada (Snack Size),190,3,2.5,39,3,31
+BoosterJuice, Nov 2020, USA,0,Coco Rush,290,4.5,3.5,65,7,47
+BoosterJuice, Nov 2020, USA,0,Coco Rush (Snack Size),150,2.5,2,33,4,22
+BoosterJuice, Nov 2020, USA,0,Funky Monkey,400,7,1.5,86,5,67
+BoosterJuice, Nov 2020, USA,0,Funk Monkey (Snack Size),200,3.5,0.5,43,3,34
+BoosterJuice, Nov 2020, USA,0,High Impact Acai, 470,6,2,79,3,73
+BoosterJuice, Nov 2020, USA,0,Mango Hurricane,310,1,0.4,70,4,54
+BoosterJuice, Nov 2020, USA,0,Mango Hurricane (Snack Size),150,0.5,0.2,35,2,27
+BoosterJuice, Nov 2020, USA,0,Marathon,350,1,0.5,77,6,56
+BoosterJuice, Nov 2020, USA,0,Marathon (Snack Size),180,0.5,0.2,40,3,29
+BoosterJuice, Nov 2020, USA,0,Matcha Monsoon,280,6,1.5,53,3,51
+BoosterJuice, Nov 2020, USA,0,Matcha Monsoon (Snack Size),140,3,0.5,27,1,26
+BoosterJuice, Nov 2020, USA,0,Mind Over Matcha,350,6,1.5,48,5,44
+BoosterJuice, Nov 2020, USA,0,Nuttin' Better,650,27,6,68,6,52
+BoosterJuice, Nov 2020, USA,0,Orangesicle,270,1.5,0.5,66,1,62
+BoosterJuice, Nov 2020, USA,0,Orangesicle (Snack Size),140,0.5,0.3,33,1,31
+BoosterJuice, Nov 2020, USA,0,Pea (not) Butter 2.0,610,26,6,77,6,58
+BoosterJuice, Nov 2020, USA,0,Pea (not) Butter 2.0 (Snack Size),320,13,3,42,3,31
+BoosterJuice, Nov 2020, USA,0,Pomegranate Passion,280,1.5,0.5,63,4,48
+BoosterJuice, Nov 2020, USA,0,Pomegranate Passion (Snack Size),140,0.5,0.3,31,2,24
+BoosterJuice, Nov 2020, USA,0,Pomegranate Punch,340,2.5,1,56,3,44
+BoosterJuice, Nov 2020, USA,0,Ripped Berry,400,3,1.5,65,3,60
+BoosterJuice, Nov 2020, USA,0,Pineapple Freeze,310,2,1,71,5,59
+BoosterJuice, Nov 2020, USA,0,Pineapple Freeze (Snack Size),160,1,0.5,36,3,29
+BoosterJuice, Nov 2020, USA,0,Spinach is in it,330,3,0.5,76,8,64
+BoosterJuice, Nov 2020, USA,0,Spinach is in it (Snack Size),180,1.5,0.3,42,5,35
+BoosterJuice, Nov 2020, USA,0,Starwberry Storm,280,2.5,1,40,4,34
+BoosterJuice, Nov 2020, USA,0,Strawberry Sunshine,290,1,0.4,68,4,48
+BoosterJuice, Nov 2020, USA,0,Strawberry Sunshine (Snack Size),150,0.5,0.2,34,2,24
+BoosterJuice, Nov 2020, USA,0,The Original (Snack Size),170,0.5,0.2,41,2,32
+BoosterJuice, Nov 2020, USA,0,The Original,340,1,0.4,82,4,64
+BoosterJuice, Nov 2020, USA,0,Tropi-Kale (Snack Size),140,0.5,0.1,34,5,25
+BoosterJuice, Nov 2020, USA,0,Tropi-Kale,290,1,0.2,71,10,51
+BoosterJuice, Nov 2020, USA,0,Tropical Tornado (Snack Size),170,0.5,0.2,41,3,31
+BoosterJuice, Nov 2020, USA,0,Tropical Tornado,350,1,0.5,82,6,62
+BoosterJuice, Nov 2020, USA,0,Unbeetable (Snack Size),120,0.4,0.1,30,5,20
+BoosterJuice, Nov 2020, USA,0,Unbeetable,260,1,0.2,62,10,44
+BoosterJuice, Nov 2020, USA,0,Very Berry (Snack Size),140,0.5,0.2,32,3,25
+BoosterJuice, Nov 2020, USA,0,Very Berry,280,1,0.4,63,6,50
+BoosterJuice, Nov 2020, USA,0,Wildberry Rush (Snack Size),90,0.4,0,23,3,16
+BoosterJuice, Nov 2020, USA,0,Wildberry Rush,190,1,0.1,48,7,33
+Second Cup,Nov 2021,Canada,354,Pistachio Latte - 2% Milk,240,6,4.5,39,0,33
+Second Cup,Nov 2021,Canada,354,Pistachio Latte - Almond Milk,170,4.5,2.5,31,1,25
+Second Cup,Nov 2021,Canada,354,Pistachio Latte - Coconut Milk,210,6,6,38,0,31
+Second Cup,Nov 2021,Canada,354,Pistachio Latte - Oat Milk,280,8,3,47,0,27
+Second Cup,Nov 2021,Canada,354,Pistachio Latte - Skim Milk,210,2.5,2,39,0,34
+Second Cup,Nov 2021,Canada,354,Pistachio Latte - Soy Milk,200,4.5,2.5,37,0,29
+Second Cup,Nov 2021,Canada,473,Pistachio Latte - 2% Milk,290,7,5,47,0,41
+Second Cup,Nov 2021,Canada,473,Pistachio Latte - Almond Milk,200,5,2.5,37,1,30
+Second Cup,Nov 2021,Canada,473,Pistachio Latte - Coconut Milk,260,7,7,46,0,38
+Second Cup,Nov 2021,Canada,473,Pistachio Latte - Oat Milk,350,10,3,59,0,33
+Second Cup,Nov 2021,Canada,473,Pistachio Latte - Skim Milk,250,2.5,2,48,0,42
+Second Cup,Nov 2021,Canada,473,Pistachio Latte - Soy Milk,240,5,2.5,45,0,36
+Second Cup,Nov 2021,Canada,591,Pistachio Latte - 2% Milk,400,10,7,66,0,56
+Second Cup,Nov 2021,Canada,591,Pistachio Latte - Almond Milk,280,7,3.5,53,1,42
+Second Cup,Nov 2021,Canada,591,Pistachio Latte - Coconut Milk,350,10,9,64,0,53
+Second Cup,Nov 2021,Canada,591,Pistachio Latte - Oat Milk,460,14,4.5,80,0,46
+Second Cup,Nov 2021,Canada,591,Pistachio Latte - Skim Milk,350,3.5,3,67,0,57
+Second Cup,Nov 2021,Canada,591,Pistachio Latte - Soy Milk,340,7,4,62,0,50
+Second Cup,Nov 2021,Canada,354,Pistachio Frappé  - 2% Milk,360,16,11,51,0,42
+Second Cup,Nov 2021,Canada,354,Pistachio Frappé  - Almond Milk,340,16,10,48,0,39
+Second Cup,Nov 2021,Canada,354,Pistachio Frappé  - Coconut Milk,350,16,11,40,200,50
+Second Cup,Nov 2021,Canada,354,Pistachio Frappé  - Oat Milk,370,17,10,53,0,40
+Second Cup,Nov 2021,Canada,354,Pistachio Frappé  - Skim Milk,350,15,10,51,0,42
+Second Cup,Nov 2021,Canada,354,Pistachio Frappé  - Soy Milk,350,16,10,50,0,41
+Second Cup,Nov 2021,Canada,473,Pistachio Frappé  - 2% Milk,370,17,11,52,0,43
+Second Cup,Nov 2021,Canada,473,Pistachio Frappé  - Almond Milk,340,16,10,48,0,39
+Second Cup,Nov 2021,Canada,473,Pistachio Frappé  - Coconut Milk,360,17,12,51,0,42
+Second Cup,Nov 2021,Canada,473,Pistachio Frappé  - Oat Milk,390,18,11,56,0,40
+Second Cup,Nov 2021,Canada,473,Pistachio Frappé  - Skim Milk,360,15,10,52,0,44
+Second Cup,Nov 2021,Canada,473,Pistachio Frappé  - Soy Milk,360,16,10,51,0,41
+Second Cup,Nov 2021,Canada,650,Pistachio Frappé  - 2% Milk,460,18,13,69,0,57
+Second Cup,Nov 2021,Canada,650,Pistachio Frappé  - Almond Milk,420,17,11,63,0,51
+Second Cup,Nov 2021,Canada,650,Pistachio Frappé  - Coconut Milk,450,18,14,68,0,56
+Second Cup,Nov 2021,Canada,650,Pistachio Frappé  - Oat Milk,490,20,12,40,310,74
+Second Cup,Nov 2021,Canada,650,Pistachio Frappé  - Skim Milk,440,16,11,69,0,57
+Second Cup,Nov 2021,Canada,650,Pistachio Frappé  - Soy Milk,440,17,11,67,0,55
+Second Cup,Nov 2021,Canada,354,Candy Cane White Hot - 2% Milk,410,19,13,52,0,56
+Second Cup,Nov 2021,Canada,354,Candy Cane White Hot - Almond Milk,340,17,11,45,1,38
+Second Cup,Nov 2021,Canada,354,Candy Cane White Hot - Coconut Milk,380,19,15,51,0,44
+Second Cup,Nov 2021,Canada,354,Candy Cane White Hot - Oat Milk,430,21,12,61,0,40
+Second Cup,Nov 2021,Canada,354,Candy Cane White Hot - Skim Milk,380,15,11,53,0,47
+Second Cup,Nov 2021,Canada,354,Candy Cane White Hot - Soy Milk,370,17,12,50,0,43
+Second Cup,Nov 2021,Canada,473,Candy Cane White Hot - 2% Milk,60,20,14,61,0,55
+Second Cup,Nov 2021,Canada,473,Candy Cane White Hot - Almond Milk,370,18,12,51,1,44
+Second Cup,Nov 2021,Canada,473,Candy Cane White Hot - Coconut Milk,430,20,16,60,0,52
+Second Cup,Nov 2021,Canada,473,Candy Cane White Hot - Oat Milk,500,23,12,73,0,47
+Second Cup,Nov 2021,Canada,473,Candy Cane White Hot - Skim Milk,420,14,11,62,0,56
+Second Cup,Nov 2021,Canada,473,Candy Cane White Hot - Soy Milk,410,18,12,58,0,50
+Second Cup,Nov 2021,Canada,591,Candy Cane White Hot - 2% Milk,570,23,17,79,0,70
+Second Cup,Nov 2021,Canada,591,Candy Cane White Hot - Almond Milk,460,21,13,66,1,56
+Second Cup,Nov 2021,Canada,591,Candy Cane White Hot - Coconut Milk,530,23,19,77,0,67
+Second Cup,Nov 2021,Canada,591,Candy Cane White Hot - Oat Milk,620,27,14,93,0,60
+Second Cup,Nov 2021,Canada,591,Candy Cane White Hot - Skim Milk,520,17,13,80,0,72
+Second Cup,Nov 2021,Canada,591,Candy Cane White Hot - Soy Milk,510,21,14,75,0,65
+Second Cup,Nov 2021,Canada,354,Peppermint Moccaccino - 2% Milk,260,6,4.5,44,0,41
+Second Cup,Nov 2021,Canada,354,Peppermint Moccaccino - Almond Milk,190,5,2.5,37,1,32
+Second Cup,Nov 2021,Canada,354,Peppermint Moccaccino - Coconut Milk,230,6,6,43,0,39
+Second Cup,Nov 2021,Canada,354,Peppermint Moccaccino - Oat Milk,300,9,3,53,0,35
+Second Cup,Nov 2021,Canada,354,Peppermint Moccaccino - Skim Milk,230,2.5,2.5,45,0,41
+Second Cup,Nov 2021,Canada,354,Peppermint Moccaccino - Soy Milk,220,5,2.5,42,0,37
+Second Cup,Nov 2021,Canada,473,Peppermint Moccaccino - 2% Milk,320,7,5,54,0,50
+Second Cup,Nov 2021,Canada,473,Peppermint Moccaccino - Almond Milk,230,6,2.5,44,1,38
+Second Cup,Nov 2021,Canada,473,Peppermint Moccaccino - Coconut Milk,280,8,7,53,0,47
+Second Cup,Nov 2021,Canada,473,Peppermint Moccaccino - Oat Milk,380,11,3.5,66,0,42
+Second Cup,Nov 2021,Canada,473,Peppermint Moccaccino - Skim Milk,280,3,2.5,55,0,51
+Second Cup,Nov 2021,Canada,473,Peppermint Moccaccino - Soy Milk,270,6,3,51,0,45
+Second Cup,Nov 2021,Canada,591,Peppermint Moccaccino - 2% Milk,420,10,7,33,1,72
+Second Cup,Nov 2021,Canada,591,Peppermint Moccaccino - Almond Milk,310,8,4,59,2,51
+Second Cup,Nov 2021,Canada,591,Peppermint Moccaccino - Coconut Milk,380,10,10,70,1,62
+Second Cup,Nov 2021,Canada,591,Peppermint Moccaccino - Oat Milk,500,14,5,87,0,56
+Second Cup,Nov 2021,Canada,591,Peppermint Moccaccino - Skim Milk,370,4,3.5,73,1,67
+Second Cup,Nov 2021,Canada,591,Peppermint Moccaccino - Soy Milk,360,8,4,59,1,60
+Second Cup,Nov 2021,Canada,354,Eggnog Latte - Eggnog,200,3.5,2,34,0,32
+Second Cup,Nov 2021,Canada,473,Eggnog Latte - Eggnog,260,5,3,46,0,43
+Second Cup,Nov 2021,Canada,591,Eggnog Latte - Eggnog,330,6,3.5,58,0,53
+Second Cup,Nov 2021,Canada,354,Cinnamon Toast Latte - 2% Milk,250,7,6,40,0,34
+Second Cup,Nov 2021,Canada,354,Cinnamon Toast Latte - Almond Milk,190,6,3.5,32,1,26
+Second Cup,Nov 2021,Canada,354,Cinnamon Toast Latte - Coconut Milk,230,8,7,39,0,33
+Second Cup,Nov 2021,Canada,354,Cinnamon Toast Latte - Oat Milk,300,10,4.5,48,0,28
+Second Cup,Nov 2021,Canada,354,Cinnamon Toast Latte - Skim Milk,230,4,3.5,40,0,35
+Second Cup,Nov 2021,Canada,354,Cinnamon Toast Latte - Soy Milk,220,6,4,38,0,31
+Second Cup,Nov 2021,Canada,473,Cinnamon Toast Latte - 2% Milk,310,9,6,49,0,43
+Second Cup,Nov 2021,Canada,473,Cinnamon Toast Latte - Almond Milk,220,7,4,39,1,32
+Second Cup,Nov 2021,Canada,473,Cinnamon Toast Latte - Coconut Milk,280,9,8,48,0,41
+Second Cup,Nov 2021,Canada,473,Cinnamon Toast Latte - Oat Milk,370,12,4.5,61,0,35
+Second Cup,Nov 2021,Canada,473,Cinnamon Toast Latte - Skim Milk,280,4,3.5,50,0,44
+Second Cup,Nov 2021,Canada,473,Cinnamon Toast Latte - Soy Milk,270,7,4,46,0,38
+Second Cup,Nov 2021,Canada,591,Cinnamon Toast Latte - 2% Milk,430,12,9,68,0,59
+Second Cup,Nov 2021,Canada,591,Cinnamon Toast Latte - Almond Milk,310,9,6,55,1,45
+Second Cup,Nov 2021,Canada,591,Cinnamon Toast Latte - Coconut Milk,380,12,11,66,0,56
+Second Cup,Nov 2021,Canada,591,Cinnamon Toast Latte - Oat Milk,490,16,7,82,0,49
+Second Cup,Nov 2021,Canada,591,Cinnamon Toast Latte - Skim Milk,380,6,5,69,0,60
+Second Cup,Nov 2021,Canada,591,Cinnamon Toast Latte - Soy Milk,370,9,6,64,0,53
+Second Cup,Nov 2021,Canada,473,Almond Date,340,16,1.5,49,8,29
+Second Cup,Nov 2021,Canada,354,Caramel Chip Frappé - 2% Milk,330,10,8,58,1,39
+Second Cup,Nov 2021,Canada,354,Caramel Chip Frappé - Almond Milk,310,10,7,55,1,36
+Second Cup,Nov 2021,Canada,354,Caramel Chip Frappé - Skim Milk,320,9,7,58,1,39
+Second Cup,Nov 2021,Canada,354,Caramel Chip Frappé - Soy Milk,320,10,7,57,1,37
+Second Cup,Nov 2021,Canada,473,Caramel Chip Frappé - 2% Milk,350,11,8,59,1,40
+Second Cup,Nov 2021,Canada,473,Caramel Chip Frappé - Almond Milk,310,10,7,56,1,36
+Second Cup,Nov 2021,Canada,473,Caramel Chip Frappé - Skim Milk,330,9,7,60,1,40
+Second Cup,Nov 2021,Canada,473,Caramel Chip Frappé - Soy Milk,330,10,7,58,1,38
+Second Cup,Nov 2021,Canada,591,Caramel Chip Frappé - 2% Milk,490,16,12,84,1,56
+Second Cup,Nov 2021,Canada,591,Caramel Chip Frappé - Almond Milk,450,15,11,79,2,51
+Second Cup,Nov 2021,Canada,591,Caramel Chip Frappé - Skim Milk,480,14,11,84,1,57
+Second Cup,Nov 2021,Canada,591,Caramel Chip Frappé - Soy Milk,470,15,11,83,1,54
+Second Cup,Nov 2021,Canada,354,Caramel  Frappé - 2% Milk,270,6,5,51,0,39
+Second Cup,Nov 2021,Canada,354,Caramel  Frappé - Almond Milk,250,6,5,48,0,36
+Second Cup,Nov 2021,Canada,354,Caramel  Frappé - Skim Milk,260,5,4.5,51,0,39
+Second Cup,Nov 2021,Canada,354,Caramel  Frappé - Soy Milk,260,6,5,50,0,37
+Second Cup,Nov 2021,Canada,473,Caramel  Frappé - 2% Milk,290,7,6,52,0,40
+Second Cup,Nov 2021,Canada,473,Caramel  Frappé - Almond Milk,250,6,5,48,0,36
+Second Cup,Nov 2021,Canada,473,Caramel  Frappé - Skim Milk,270,5,4.5,53,0,40
+Second Cup,Nov 2021,Canada,473,Caramel  Frappé - Soy Milk,270,6,5,51,0,38
+Second Cup,Nov 2021,Canada,650,Caramel  Frappé - 2% Milk,400,10,8,73,0,56
+Second Cup,Nov 2021,Canada,650,Caramel  Frappé - Almond Milk,360,9,7,68,0,51
+Second Cup,Nov 2021,Canada,650,Caramel  Frappé - Skim Milk,390,8,7,74,0,57
+Second Cup,Nov 2021,Canada,650,Caramel  Frappé - Soy Milk,380,9,7,72,0,54
+Second Cup,Nov 2021,Canada,354,Chai Frappé - 2% Milk,300,5,4.5,57,0,51
+Second Cup,Nov 2021,Canada,354,Chai Frappé - Almond Milk,280,5,4,55,0,48
+Second Cup,Nov 2021,Canada,354,Chai Frappé - Skim Milk,290,4.5,4,58,0,51
+Second Cup,Nov 2021,Canada,354,Chai Frappé - Soy Milk,290,5,4,57,0,50
+Second Cup,Nov 2021,Canada,473,Chai Frappé - 2% Milk,310,6,5,59,0,52
+Second Cup,Nov 2021,Canada,473,Chai Frappé - Almond Milk,280,5,4,55,0,48
+Second Cup,Nov 2021,Canada,473,Chai Frappé - Skim Milk,300,4.5,4,59,0,53
+Second Cup,Nov 2021,Canada,473,Chai Frappé - Soy Milk,300,5,4,58,0,51
+Second Cup,Nov 2021,Canada,650,Chai Frappé - 2% Milk,360,7,5,67,0,61
+Second Cup,Nov 2021,Canada,650,Chai Frappé - Almond Milk,310,6,4,62,0,55
+Second Cup,Nov 2021,Canada,650,Chai Frappé - Skim Milk,340,4.5,4,68,0,61
+Second Cup,Nov 2021,Canada,650,Chai Frappé - Soy Milk,340,6,4,66,0,59
+Second Cup,Nov 2021,Canada,473,Chocolate Banana Power Smoothie - Oat milk,420,6,1.5,85,5,59
+Second Cup,Nov 2021,Canada,354,Espresso Frappé - 2% Milk,280,9,8,47,0,36
+Second Cup,Nov 2021,Canada,354,Espresso Frappé - Almond Milk,260,9,7,44,0,33
+Second Cup,Nov 2021,Canada,354,Espresso Frappé - Skim Milk,270,8,7,47,0,36
+Second Cup,Nov 2021,Canada,354,Espresso Frappé - Soy Milk,270,9,7,46,0,35
+Second Cup,Nov 2021,Canada,473,Espresso Frappé - 2% Milk,300,10,8,48,0,37
+Second Cup,Nov 2021,Canada,473,Espresso Frappé - Almond Milk,260,9,7,44,0,33
+Second Cup,Nov 2021,Canada,473,Espresso Frappé - Skim Milk,280,8,7,49,0,38
+Second Cup,Nov 2021,Canada,473,Espresso Frappé - Soy Milk,280,9,8,47,0,36
+Second Cup,Nov 2021,Canada,650,Espresso Frappé - 2% Milk,420,14,12,67,0,52
+Second Cup,Nov 2021,Canada,650,Espresso Frappé - Almond Milk,370,13,11,62,0,47
+Second Cup,Nov 2021,Canada,650,Espresso Frappé - Skim Milk,400,12,11,68,0,53
+Second Cup,Nov 2021,Canada,650,Espresso Frappé - Soy Milk,400,13,11,66,0,50
+Second Cup,Nov 2021,Canada,354,Frocho - 2% Milk,370,13,8,55,3,51
+Second Cup,Nov 2021,Canada,354,Frocho - Almond Milk,350,15,9,50,3,45
+Second Cup,Nov 2021,Canada,354,Frocho - Skim Milk,350,11,7,56,3,51
+Second Cup,Nov 2021,Canada,354,Frocho - Soy Milk,360,13,7,54,3,46
+Second Cup,Nov 2021,Canada,473,Frocho - 2% Milk,510,15,9,82,4,75
+Second Cup,Nov 2021,Canada,473,Frocho - Almond Milk,460,16,9,73,5,66
+Second Cup,Nov 2021,Canada,473,Frocho - Skim Milk,480,11,7,82,4,76
+Second Cup,Nov 2021,Canada,473,Frocho - Soy Milk,490,14,7,79,5,71
+Second Cup,Nov 2021,Canada,650,Frocho - 2% Milk,700,23,14,108,5,100
+Second Cup,Nov 2021,Canada,650,Frocho - Almond Milk,570,17,9,97,6,87
+Second Cup,Nov 2021,Canada,650,Frocho - Skim Milk,670,19,12,109,5,100
+Second Cup,Nov 2021,Canada,650,Frocho - Soy Milk,680,23,12,105,6,94
+Second Cup,Nov 2021,Canada,473,Green Mango Boost,340,1,0,79,5,59
+Second Cup,Nov 2021,Canada,354,Matcha Tea Frappé - 2% Milk,210,3,1.5,39,0,39
+Second Cup,Nov 2021,Canada,354,Matcha Tea Frappé - Almond Milk,150,2,0,33,1,32
+Second Cup,Nov 2021,Canada,354,Matcha Tea Frappé - Skim Milk,180,0,0,40,0,39
+Second Cup,Nov 2021,Canada,354,Matcha Tea Frappé - Soy Milk,180,2,0,37,1,36
+Second Cup,Nov 2021,Canada,473,Matcha Tea Frappé - 2% Milk,240,4.5,2.5,41,0,41
+Second Cup,Nov 2021,Canada,473,Matcha Tea Frappé - Almond Milk,160,2.5,0,32,1,31
+Second Cup,Nov 2021,Canada,473,Matcha Tea Frappé - Skim Milk,200,0,0,42,0,42
+Second Cup,Nov 2021,Canada,473,Matcha Tea Frappé - Soy Milk,200,2.5,0,39,1,37
+Second Cup,Nov 2021,Canada,650,Matcha Tea Frappé - 2% Milk,340,6,3,60,0,59
+Second Cup,Nov 2021,Canada,650,Matcha Tea Frappé - Almond Milk,230,3.5,0,48,1,46
+Second Cup,Nov 2021,Canada,650,Matcha Tea Frappé - Skim Milk,290,0,0,61,0,60
+Second Cup,Nov 2021,Canada,650,Matcha Tea Frappé - Soy Milk,280,3.5,0.5,57,1,54
+Second Cup,Nov 2021,Canada,354,Mocca Frappé - 2% Milk,260,7,6,46,0,37
+Second Cup,Nov 2021,Canada,354,Mocca Frappé - Almond Milk,230,6,5,44,0,34
+Second Cup,Nov 2021,Canada,354,Mocca Frappé - Skim Milk,250,6,5,47,0,37
+Second Cup,Nov 2021,Canada,354,Mocca Frappé - Soy Milk,240,6,5,46,0,36
+Second Cup,Nov 2021,Canada,473,Mocca Frappé - 2% Milk,270,7,6,48,0,39
+Second Cup,Nov 2021,Canada,473,Mocca Frappé - Almond Milk,240,7,5,44,0,34
+Second Cup,Nov 2021,Canada,473,Mocca Frappé - Skim Milk,260,6,5,48,0,37
+Second Cup,Nov 2021,Canada,473,Mocca Frappé - Soy Milk,250,7,5,47,0,37
+Second Cup,Nov 2021,Canada,650,Mocca Frappé - 2% Milk,380,11,9,67,0,54
+Second Cup,Nov 2021,Canada,650,Mocca Frappé - Almond Milk,340,10,7,61,1,48
+Second Cup,Nov 2021,Canada,650,Mocca Frappé - Skim Milk,360,8,7,67,0,55
+Second Cup,Nov 2021,Canada,650,Mocca Frappé - Soy Milk,360,10,7,65,0,52
+Second Cup,Nov 2021,Canada,473,Strawberry Banana Glow,330,5.2,1,69,7,50
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Frappé - 2% Milk,270,6,5,50,0,37
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Frappé - Almond Milk,250,6,4.5,48,0,35
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Frappé - Skim Milk,260,5,4.5,51,0,38
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Frappé - Soy Milk,260,6,4.5,50,5,36
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Frappé - 2% Milk,280,7,6,52,0,39
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Frappé - Almond Milk,250,6,4.5,48,0,35
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Frappé - Skim Milk,270,5,4.5,52,0,39
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Frappé - Soy Milk,270,6,4.5,51,0,37
+Second Cup,Nov 2021,Canada,650,Vanilla Bean Frappé - 2% Milk,400,10,8,72,0,55
+Second Cup,Nov 2021,Canada,650,Vanilla Bean Frappé - Almond Milk,350,9,7,67,0,49
+Second Cup,Nov 2021,Canada,650,Vanilla Bean Frappé - Skim Milk,380,7,7,73,0,55
+Second Cup,Nov 2021,Canada,650,Vanilla Bean Frappé - Soy Milk,370,9,7,71,0,52
+Second Cup,Nov 2021,Canada,354,Brewed Coffee,5,0.1,0,0,0,0
+Second Cup,Nov 2021,Canada,473,Brewed Coffee,5,0.1,0,0,0,0
+Second Cup,Nov 2021,Canada,591,Brewed Coffee,5,0.1,0,0,0,0
+Second Cup,Nov 2021,Canada,354,Brewed Tea,0,0,0,0,0,0
+Second Cup,Nov 2021,Canada,473,Brewed Tea,0,0,0,0,0,0
+Second Cup,Nov 2021,Canada,591,Brewed Tea,0,0,0,0,0,0
+Second Cup,Nov 2021,Canada,354,Chai Latte - 2% Milk,190,4,2.5,30,0,30
+Second Cup,Nov 2021,Canada,354,Chai Latte - Almond Milk,115,2.5,0,22,1,21
+Second Cup,Nov 2021,Canada,354,Chai Latte - Skim Milk,160,0,0,31,0,31
+Second Cup,Nov 2021,Canada,354,Chai Latte - Soy Milk,150,2.5,0,28,1,26
+Second Cup,Nov 2021,Canada,473,Chai Latte - 2% Milk,250,5,3,40,0,40
+Second Cup,Nov 2021,Canada,473,Chai Latte - Almond Milk,155,3,0,29,1,28
+Second Cup,Nov 2021,Canada,473,Chai Latte - Skim Milk,210,0,0,41,0,41
+Second Cup,Nov 2021,Canada,473,Chai Latte - Soy Milk,200,3,0,37,1,35
+Second Cup,Nov 2021,Canada,591,Chai Latte - 2% Milk,310,6,4,50,0,50
+Second Cup,Nov 2021,Canada,591,Chai Latte - Almond Milk,195,4,0,36,1,35
+Second Cup,Nov 2021,Canada,591,Chai Latte - Skim Milk,260,0,0,51,0,51
+Second Cup,Nov 2021,Canada,591,Chai Latte - Soy Milk,250,4,0.5,46,1,44
+Second Cup,Nov 2021,Canada,354,Honey Vanilla Tea Latte - 2% Milk,210,6,4,34,0,29
+Second Cup,Nov 2021,Canada,354,Honey Vanilla Tea Latte - Almond Milk,140,4.5,2.5,26,1,21
+Second Cup,Nov 2021,Canada,354,Honey Vanilla Tea Latte - Skim Milk,180,2.5,2,34,0,30
+Second Cup,Nov 2021,Canada,354,Honey Vanilla Tea Latte - Soy Milk,180,4.5,2.5,31,0,25
+Second Cup,Nov 2021,Canada,473,Honey Vanilla Tea Latte - 2% Milk,240,7,5,36,0,32
+Second Cup,Nov 2021,Canada,473,Honey Vanilla Tea Latte - Almond Milk,150,5,2.5,26,1,21
+Second Cup,Nov 2021,Canada,473,Honey Vanilla Tea Latte - Skim Milk,200,2.5,2,37,0,33
+Second Cup,Nov 2021,Canada,473,Honey Vanilla Tea Latte - Soy Milk,200,5,2.5,34,0,27
+Second Cup,Nov 2021,Canada,591,Honey Vanilla Tea Latte - 2% Milk,320,9,7,4,0,42
+Second Cup,Nov 2021,Canada,591,Honey Vanilla Tea Latte - Almond Milk,210,7,3.5,36,1,28
+Second Cup,Nov 2021,Canada,591,Honey Vanilla Tea Latte - Skim Milk,280,3.5,3,50,0,43
+Second Cup,Nov 2021,Canada,591,Honey Vanilla Tea Latte - Soy Milk,260,7,4,45,0,36
+Second Cup,Nov 2021,Canada,354,London Fog - 2% Milk,210,6,3.5,28,0,13
+Second Cup,Nov 2021,Canada,354,London Fog - Skim Milk,160,0.5,0.5,29,0,27
+Second Cup,Nov 2021,Canada,354,London Fog - Soy Milk,220,60,0.5,29,4,15
+Second Cup,Nov 2021,Canada,473,London Fog - 2% Milk,290,8,5,40,0,20
+Second Cup,Nov 2021,Canada,473,London Fog - Skim Milk,230,0.5,0.5,40,0,38
+Second Cup,Nov 2021,Canada,473,London Fog - Soy Milk,300,8,1,41,5,22
+Second Cup,Nov 2021,Canada,591,London Fog - 2% Milk,370,10,6,51,0,27
+Second Cup,Nov 2021,Canada,591,London Fog - Skim Milk,290,1,0.5,52,0,49
+Second Cup,Nov 2021,Canada,591,London Fog - Soy Milk,380,10,1,52,7,29
+Second Cup,Nov 2021,Canada,354,Matcha Spice Oat Latte,260,8,1,42,1,18
+Second Cup,Nov 2021,Canada,473,Matcha Spice Oat Latte,300,10,1,47,1,19
+Second Cup,Nov 2021,Canada,591,Matcha Spice Oat Latte,380,12,1.5,63,1,27
+Second Cup,Nov 2021,Canada,354,Matcha Tea Latte - 2% Milk,200,5,3,30,1,27
+Second Cup,Nov 2021,Canada,354,Matcha Tea Latte - Almond Milk,110,3,0.3,20,2,15
+Second Cup,Nov 2021,Canada,354,Matcha Tea Latte - Coconut Milk,170,5,5,30,1,24
+Second Cup,Nov 2021,Canada,354,Matcha Tea Latte - Skim Milk,160,0.1,0,31,1,28
+Second Cup,Nov 2021,Canada,354,Matcha Tea Latte - Soy Milk,150,3,0.5,28,1,22
+Second Cup,Nov 2021,Canada,473,Matcha Tea Latte - 2% Milk,230,6,3.5,33,1,29
+Second Cup,Nov 2021,Canada,473,Matcha Tea Latte - Almond Milk,120,3.5,0.4,20,2,15
+Second Cup,Nov 2021,Canada,473,Matcha Tea Latte - Coconut Milk,190,6,6,31,1,26
+Second Cup,Nov 2021,Canada,473,Matcha Tea Latte - Skim Milk,190,0.1,0,35,1,31
+Second Cup,Nov 2021,Canada,473,Matcha Tea Latte - Soy Milk,170,3.5,0.5,30,1,24
+Second Cup,Nov 2021,Canada,591,Matcha Tea Latte - 2% Milk,300,7,4.5,46,1,40
+Second Cup,Nov 2021,Canada,591,Matcha Tea Latte - Almond Milk,170,4.5,0.4,30,2,23
+Second Cup,Nov 2021,Canada,591,Matcha Tea Latte - Coconut Milk,250,7,7,43,1,36
+Second Cup,Nov 2021,Canada,591,Matcha Tea Latte - Skim Milk,250,0.1,0,47,1,41
+Second Cup,Nov 2021,Canada,591,Matcha Tea Latte - Soy Milk,230,4.5,0.5,41,1,33
+Second Cup,Nov 2021,Canada,354,Classic Hot Chocolate - 2% Milk,370,18,13,45,1,39
+Second Cup,Nov 2021,Canada,354,Classic Hot Chocolate - Almond Milk,300,17,11,37,2,30
+Second Cup,Nov 2021,Canada,354,Classic Hot Chocolate - Skim Milk,330,15,11,46,1,39
+Second Cup,Nov 2021,Canada,354,Classic Hot Chocolate - Soy Milk,340,17,11,43,1,35
+Second Cup,Nov 2021,Canada,473,Classic Hot Chocolate - 2% Milk,450,21,15,56,2,48
+Second Cup,Nov 2021,Canada,473,Classic Hot Chocolate - Almond Milk,360,19,12,46,3,37
+Second Cup,Nov 2021,Canada,473,Classic Hot Chocolate - Skim Milk,410,16,12,57,2,49
+Second Cup,Nov 2021,Canada,473,Classic Hot Chocolate - Soy Milk,400,19,12,53,2,44
+Second Cup,Nov 2021,Canada,591,Classic Hot Chocolate - 2% Milk,520,23,16,68,2,58
+Second Cup,Nov 2021,Canada,591,Classic Hot Chocolate - Almond Milk,410,21,13,55,3,44
+Second Cup,Nov 2021,Canada,591,Classic Hot Chocolate - Skim Milk,480,17,13,69,2,59
+Second Cup,Nov 2021,Canada,591,Classic Hot Chocolate - Soy Milk,470,21,14,64,2,52
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Hot Chocolate Hot Chocolate - 2% Milk,380,18,13,47,1,39
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Hot Chocolate Hot Chocolate - Almond Milk,310,16,11,39,1,31
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Hot Chocolate Hot Chocolate - Skim Milk,350,14,10,48,1,40
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Hot Chocolate Hot Chocolate - Soy Milk,340,16,11,45,1,36
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Hot Chocolate Hot Chocolate - 2% Milk,450,20,14,58,1,49
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Hot Chocolate Hot Chocolate - Almond Milk,360,18,12,48,2,38
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Hot Chocolate Hot Chocolate - Skim Milk,410,16,12,59,1,50
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Hot Chocolate Hot Chocolate - Soy Milk,410,16,12,59,1,50
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Hot Chocolate Hot Chocolate - 2% Milk,530,23,16,70,1,59
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Hot Chocolate Hot Chocolate - Almond Milk,420,20,13,57,2,45
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Hot Chocolate Hot Chocolate - Skim Milk,480,17,13,72,1,60
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Hot Chocolate Hot Chocolate - Soy Milk,470,20,13,67,1,53
+Second Cup,Nov 2021,Canada,354,White Hot Chocolate - 2% Milk,390,21,15,45,0,38
+Second Cup,Nov 2021,Canada,354,White Hot Chocolate - Almond Milk,330,19,13,37,1,30
+Second Cup,Nov 2021,Canada,354,White Hot Chocolate - Skim Milk,370,17,13,46,0,39
+Second Cup,Nov 2021,Canada,354,White Hot Chocolate - Soy Milk,360,19,13,43,0,35
+Second Cup,Nov 2021,Canada,473,White Hot Chocolate - 2% Milk,480,24,18,56,0,48
+Second Cup,Nov 2021,Canada,473,White Hot Chocolate - Almond Milk,390,22,15,46,1,36
+Second Cup,Nov 2021,Canada,473,White Hot Chocolate - Skim Milk,440,19,15,57,0,49
+Second Cup,Nov 2021,Canada,473,White Hot Chocolate - Soy Milk,430,22,15,54,0,43
+Second Cup,Nov 2021,Canada,591,White Hot Chocolate - 2% Milk,560,27,20,68,0,57
+Second Cup,Nov 2021,Canada,591,White Hot Chocolate - Almond Milk,450,24,17,55,1,43
+Second Cup,Nov 2021,Canada,591,White Hot Chocolate - Skim Milk,510,21,16,69,0,59
+Second Cup,Nov 2021,Canada,591,White Hot Chocolate - Soy Milk,500,24,17,64,0,51
+Second Cup,Nov 2021,Canada,354,Brewed Iced Tea - Unsweetended,0,0,0,0,0,0
+Second Cup,Nov 2021,Canada,354,Brewed Iced Tea - Sweetended,25,0,0,6,0,6
+Second Cup,Nov 2021,Canada,473,Brewed Iced Tea - Unsweetended,0,0,0,0,0,0
+Second Cup,Nov 2021,Canada,473,Brewed Iced Tea - Sweetended,50,0,0,13,0,13
+Second Cup,Nov 2021,Canada,650,Brewed Iced Tea - Unsweetended,0,0,0,0,0,0
+Second Cup,Nov 2021,Canada,650,Brewed Iced Tea - Sweetended,80,0,0,20,0,20
+Second Cup,Nov 2021,Canada,354,Flash Cold Brew - Unsweetended,15,0.3,0,3,0,0
+Second Cup,Nov 2021,Canada,354,Flash Cold Brew - Sweetended,40,0.3,0,10,0,7
+Second Cup,Nov 2021,Canada,473,Flash Cold Brew - Unsweetended,20,0.4,0.2,4,0,0
+Second Cup,Nov 2021,Canada,473,Flash Cold Brew - Sweetended,70,0.4,0.2,17,0,13
+Second Cup,Nov 2021,Canada,650,Flash Cold Brew - Unsweetended,35,0.5,0.4,6,0,0
+Second Cup,Nov 2021,Canada,650,Flash Cold Brew - Sweetended,110,0.5,0.4,26,0,20
+Second Cup,Nov 2021,Canada,354,Iced Caffè Latte - 2% Milk,120,4.5,2.5,12,0,11
+Second Cup,Nov 2021,Canada,354,Iced Caffè Latte - Almond Milk,35,3,0,2,1,0
+Second Cup,Nov 2021,Canada,354,Iced Caffè Latte - Skim Milk,90,0,0,13,0,11
+Second Cup,Nov 2021,Canada,354,Iced Caffè Latte - Soy Milk,80,3,0,9,1,6
+Second Cup,Nov 2021,Canada,473,Iced Caffè Latte - 2% Milk,140,5,3,14,0,12
+Second Cup,Nov 2021,Canada,473,Iced Caffè Latte - Almond Milk,45,3,0,3,1,0
+Second Cup,Nov 2021,Canada,473,Iced Caffè Latte - Skim Milk,100,0,0,15,0,13
+Second Cup,Nov 2021,Canada,473,Iced Caffè Latte - Soy Milk,90,3,0.5,11,1,7
+Second Cup,Nov 2021,Canada,650,Iced Caffè Latte - 2% Milk,180,7,4,17,0,15
+Second Cup,Nov 2021,Canada,650,Iced Caffè Latte - Almond Milk,60,4,0,4,1,0
+Second Cup,Nov 2021,Canada,650,Iced Caffè Latte - Skim Milk,130,0,0,19,0,16
+Second Cup,Nov 2021,Canada,650,Iced Caffè Latte - Soy Milk,120,4,0.5,14,1,9
+Second Cup,Nov 2021,Canada,354,Iced Iced Caramel Corretto - 2% Milk,370,19,13,43,0,35
+Second Cup,Nov 2021,Canada,354,Iced Iced Caramel Corretto - Almond Milk,310,18,11,36,1,28
+Second Cup,Nov 2021,Canada,354,Iced Iced Caramel Corretto - Skim Milk,340,16,11,43,0,36
+Second Cup,Nov 2021,Canada,354,Iced Iced Caramel Corretto - Soy Milk,340,18,12,41,0,32
+Second Cup,Nov 2021,Canada,473,Iced Iced Caramel Corretto - 2% Milk,430,21,15,54,0,44
+Second Cup,Nov 2021,Canada,473,Iced Iced Caramel Corretto - Almond Milk,370,20,13,46,1,35
+Second Cup,Nov 2021,Canada,473,Iced Iced Caramel Corretto - Skim Milk,410,17,12,55,0,45
+Second Cup,Nov 2021,Canada,473,Iced Iced Caramel Corretto - Soy Milk,400,20,13,52,0,40
+Second Cup,Nov 2021,Canada,650,Iced Iced Caramel Corretto - 2% Milk,500,23,16,66,0,53
+Second Cup,Nov 2021,Canada,650,Iced Iced Caramel Corretto - Almond Milk,420,21,14,57,1,43
+Second Cup,Nov 2021,Canada,650,Iced Iced Caramel Corretto - Skim Milk,470,19,14,67,0,54
+Second Cup,Nov 2021,Canada,650,Iced Iced Caramel Corretto - Soy Milk,460,21,14,63,0,49
+Second Cup,Nov 2021,Canada,354,Matcha Spice Oat Latte,210,6,1,36,1,18
+Second Cup,Nov 2021,Canada,473,Matcha Spice Oat Latte,250,7,1,40,1,18
+Second Cup,Nov 2021,Canada,650,Matcha Spice Oat Latte,360,11,1.5,60,1,27
+Second Cup,Nov 2021,Canada,354,Iced Moccaccino - 2% Milk,340,19,13,37,1,31
+Second Cup,Nov 2021,Canada,354,Iced Moccaccino - Almond Milk,290,18,11,30,2,24
+Second Cup,Nov 2021,Canada,354,Iced Moccaccino - Skim Milk,320,16,11,37,1,32
+Second Cup,Nov 2021,Canada,354,Iced Moccaccino - Soy Milk,310,18,12,35,1,28
+Second Cup,Nov 2021,Canada,473,Iced Moccaccino - 2% Milk,410,21,15,47,1,39
+Second Cup,Nov 2021,Canada,473,Iced Moccaccino - Almond Milk,340,20,13,39,2,31
+Second Cup,Nov 2021,Canada,473,Iced Moccaccino - Skim Milk,380,17,12,48,1,40
+Second Cup,Nov 2021,Canada,473,Iced Moccaccino - Soy Milk,370,20,13,45,1,36
+Second Cup,Nov 2021,Canada,650,Iced Moccaccino - 2% Milk,430,21,14,55,2,44
+Second Cup,Nov 2021,Canada,650,Iced Moccaccino - Almond Milk,390,21,14,49,2,38
+Second Cup,Nov 2021,Canada,650,Iced Moccaccino - Skim Milk,440,19,14,59,2,49
+Second Cup,Nov 2021,Canada,650,Iced Moccaccino - Soy Milk,430,21,14,55,2,44
+Second Cup,Nov 2021,Canada,354,Iced Pumpkin Spice Latte - 2% Milk,380,20,13,44,0,38
+Second Cup,Nov 2021,Canada,354,Iced Pumpkin Spice Latte - Almond Milk,310,18,11,36,1,29
+Second Cup,Nov 2021,Canada,354,Iced Pumpkin Spice Latte - Coconut Milk,350,20,15,42,0,36
+Second Cup,Nov 2021,Canada,354,Iced Pumpkin Spice Latte - Oat Milk,420,22,12,52,0,32
+Second Cup,Nov 2021,Canada,354,Iced Pumpkin Spice Latte - Skim Milk,350,16,11,44,0,39
+Second Cup,Nov 2021,Canada,354,Iced Pumpkin Spice Latte - Soy Milk,340,18,12,41,0,34
+Second Cup,Nov 2021,Canada,473,Iced Pumpkin Spice Latte - 2% Milk,410,20,13,51,0,44
+Second Cup,Nov 2021,Canada,473,Iced Pumpkin Spice Latte - Almond Milk,340,18,12,43,1,36
+Second Cup,Nov 2021,Canada,473,Iced Pumpkin Spice Latte - Coconut Milk,380,20,15,50,0,42
+Second Cup,Nov 2021,Canada,473,Iced Pumpkin Spice Latte - Oat Milk,450,22,12,9,0,38
+Second Cup,Nov 2021,Canada,473,Iced Pumpkin Spice Latte - Skim Milk,380,16,11,52,0,45
+Second Cup,Nov 2021,Canada,473,Iced Pumpkin Spice Latte - Soy Milk,370,18,12,49,0,41
+Second Cup,Nov 2021,Canada,650,Iced Pumpkin Spice Latte - 2% Milk,540,22,16,75,0,65
+Second Cup,Nov 2021,Canada,650,Iced Pumpkin Spice Latte - Almond Milk,460,21,13,66,1,55
+Second Cup,Nov 2021,Canada,650,Iced Pumpkin Spice Latte - Coconut Milk,510,22,17,74,0,63
+Second Cup,Nov 2021,Canada,650,Iced Pumpkin Spice Latte - Oat Milk,580,25,14,85,0,58
+Second Cup,Nov 2021,Canada,650,Iced Pumpkin Spice Latte - Skim Milk,500,18,13,76,0,66
+Second Cup,Nov 2021,Canada,650,Iced Pumpkin Spice Latte - Soy Milk,500,21,14,73,0,61
+Second Cup,Nov 2021,Canada,354,Iced Vanilla Bean Latte - 2% Milk,180,5,4,27,0,21
+Second Cup,Nov 2021,Canada,354,Iced Vanilla Bean Latte - Almond Milk,120,4,2.5,20,1,14
+Second Cup,Nov 2021,Canada,354,Iced Vanilla Bean Latte - Skim Milk,150,2.5,2,27,0,22
+Second Cup,Nov 2021,Canada,354,Iced Vanilla Bean Latte - Soy Milk,150,4,2.5,25,0,18
+Second Cup,Nov 2021,Canada,473,Iced Vanilla Bean Latte - 2% Milk,240,7,5,38,0,30
+Second Cup,Nov 2021,Canada,473,Iced Vanilla Bean Latte - Almond Milk,180,6,3.5,30,1,21
+Second Cup,Nov 2021,Canada,473,Iced Vanilla Bean Latte - Skim Milk,220,3.5,3,39,0,31
+Second Cup,Nov 2021,Canada,473,Iced Vanilla Bean Latte - Soy Milk,210,6,3.5,36,0,26
+Second Cup,Nov 2021,Canada,650,Iced Vanilla Bean Latte - 2% Milk,320,9,7,50,0,39
+Second Cup,Nov 2021,Canada,650,Iced Vanilla Bean Latte - Almond Milk,240,7,4.5,41,1,29
+Second Cup,Nov 2021,Canada,650,Iced Vanilla Bean Latte - Skim Milk,280,5,4.5,51,0,40
+Second Cup,Nov 2021,Canada,650,Iced Vanilla Bean Latte - Soy Milk,280,7,4.5,48,0,35
+Second Cup,Nov 2021,Canada,354,Italian Soda,110,0,0,27,0,27
+Second Cup,Nov 2021,Canada,473,Italian Soda,140,0,0,36,0,36
+Second Cup,Nov 2021,Canada,650,Italian Soda,210,0,0,54,0,54
+Second Cup,Nov 2021,Canada,354,Mocca Flash Cold Brew,90,2.5,2.5,17,1,14
+Second Cup,Nov 2021,Canada,473,Mocca Flash Cold Brew,90,2.5,2.5,17,1,14
+Second Cup,Nov 2021,Canada,650,Mocca Flash Cold Brew,190,5,4.5,34,1,28
+Second Cup,Nov 2021,Canada,354,Oat Milk Mocca Flash Cold Brew,130,4.5,2.5,21,0,14
+Second Cup,Nov 2021,Canada,473,Oat Milk Mocca Flash Cold Brew,140,5,2.5,24,0,15
+Second Cup,Nov 2021,Canada,591,Oat Milk Mocca Flash Cold Brew,250,8,5,43,1,29
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Flash Cold Brew,100,2.5,2,19,0,14
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Flash Cold Brew,100,2.5,2,19,0,14
+Second Cup,Nov 2021,Canada,650,Vanilla Bean Flash Cold Brew,200,4.5,4,38,0,29
+Second Cup,Nov 2021,Canada,354,Caffè Latte - 2% Milk,120,4.5,2.5,12,0,11
+Second Cup,Nov 2021,Canada,354,Caffè Latte - Almond Milk,35,3,0,2,1,0
+Second Cup,Nov 2021,Canada,354,Caffè Latte - Skim Milk,90,0,0,13,0,11
+Second Cup,Nov 2021,Canada,354,Caffè Latte - Soy Milk,80,3,0,9,1,6
+Second Cup,Nov 2021,Canada,473,Caffè Latte - 2% Milk,160,6,3.5,15,0,14
+Second Cup,Nov 2021,Canada,473,Caffè Latte - Almond Milk,50,3.5,0,3,1,0
+Second Cup,Nov 2021,Canada,473,Caffè Latte - Skim Milk,110,0,0,16,0,15
+Second Cup,Nov 2021,Canada,473,Caffè Latte - Soy Milk,100,3.5,0.5,12,1,8
+Second Cup,Nov 2021,Canada,591,Caffè Latte - 2% Milk,200,7,4,19,0,17
+Second Cup,Nov 2021,Canada,591,Caffè Latte - Almond Milk,60,4.5,0,4,1,0
+Second Cup,Nov 2021,Canada,591,Caffè Latte - Skim Milk,140,0,0,20,0,18
+Second Cup,Nov 2021,Canada,591,Caffè Latte - Soy Milk,130,4.5,0.5,15,1,10
+Second Cup,Nov 2021,Canada,354,Cappuccino - 2% Milk,110,4,2.5,10,0,10
+Second Cup,Nov 2021,Canada,354,Cappuccino - Almond Milk,35,3,0,2,1,0
+Second Cup,Nov 2021,Canada,354,Cappuccino - Skim Milk,70,0,0,10,0,9
+Second Cup,Nov 2021,Canada,354,Cappuccino - Soy Milk,80,3.5,0.5,7,1,5
+Second Cup,Nov 2021,Canada,473,Cappuccino - 2% Milk,150,6,4,14,0,14
+Second Cup,Nov 2021,Canada,473,Cappuccino - Almond Milk,50,3.5,0,3,1,0
+Second Cup,Nov 2021,Canada,473,Cappuccino - Skim Milk,110,0,0,16,0,15
+Second Cup,Nov 2021,Canada,473,Cappuccino - Soy Milk,110,5,0.5,10,1,7
+Second Cup,Nov 2021,Canada,591,Cappuccino - 2% Milk,170,7,4.5,16,0,16
+Second Cup,Nov 2021,Canada,591,Cappuccino - Almond Milk,60,4.5,0,4,1,0
+Second Cup,Nov 2021,Canada,591,Cappuccino - Skim Milk,120,0,0.5,18,0,17
+Second Cup,Nov 2021,Canada,591,Cappuccino - Soy Milk,120,5,1.5,11,1,8
+Second Cup,Nov 2021,Canada,354,Caramel Corretto - 2% Milk,260,8,6,1,0,33
+Second Cup,Nov 2021,Canada,354,Caramel Corretto - Almond Milk,190,6,4,33,1,25
+Second Cup,Nov 2021,Canada,354,Caramel Corretto - Skim Milk,230,4,3.5,42,0,34
+Second Cup,Nov 2021,Canada,354,Caramel Corretto - Soy Milk,220,6,4,39,0,30
+Second Cup,Nov 2021,Canada,473,Caramel Corretto - 2% Milk,340,10,8,54,0,44
+Second Cup,Nov 2021,Canada,473,Caramel Corretto - Almond Milk,250,8,5,43,1,32
+Second Cup,Nov 2021,Canada,473,Caramel Corretto - Skim Milk,300,5,4.5,55,0,44
+Second Cup,Nov 2021,Canada,473,Caramel Corretto - Soy Milk,300,8,5,51,0,39
+Second Cup,Nov 2021,Canada,591,Caramel Corretto - 2% Milk,430,13,9,67,0,54
+Second Cup,Nov 2021,Canada,591,Caramel Corretto - Almond Milk,310,10,6,54,1,40
+Second Cup,Nov 2021,Canada,591,Caramel Corretto - Skim Milk,380,7,6,68,0,55
+Second Cup,Nov 2021,Canada,591,Caramel Corretto - Soy Milk,370,10,6,63,0,48
+Second Cup,Nov 2021,Canada,354,Moccaccino - 2% Milk,330,17,12,38,1,32
+Second Cup,Nov 2021,Canada,354,Moccaccino - Almond Milk,260,16,10,30,2,23
+Second Cup,Nov 2021,Canada,354,Moccaccino - Skim Milk,300,13,10,38,1,33
+Second Cup,Nov 2021,Canada,354,Moccaccino - Soy Milk,290,16,10,35,1,28
+Second Cup,Nov 2021,Canada,473,Moccaccino - 2% Milk,410,20,14,49,1,42
+Second Cup,Nov 2021,Canada,473,Moccaccino - Almond Milk,320,18,11,39,2,30
+Second Cup,Nov 2021,Canada,473,Moccaccino - Skim Milk,370,15,11,50,1,43
+Second Cup,Nov 2021,Canada,473,Moccaccino - Soy Milk,360,18,11,46,1,37
+Second Cup,Nov 2021,Canada,591,Moccaccino - 2% Milk,490,22,15,61,2,51
+Second Cup,Nov 2021,Canada,591,Moccaccino - Almond Milk,380,20,12,48,3,37
+Second Cup,Nov 2021,Canada,591,Moccaccino - Skim Milk,440,16,12,63,2,52
+Second Cup,Nov 2021,Canada,591,Moccaccino - Soy Milk,430,20,12,58,2,45
+Second Cup,Nov 2021,Canada,354,Pumpkin Spice Latte - 2% Milk,260,7,6,40,0,35
+Second Cup,Nov 2021,Canada,354,Pumpkin Spice Latte - Almond Milk,190,6,4,32,1,26
+Second Cup,Nov 2021,Canada,354,Pumpkin Spice Latte - Skim Milk,230,4,3.5,41,0,35
+Second Cup,Nov 2021,Canada,354,Pumpkin Spice Latte - Soy Milk,220,6,4,38,0,31
+Second Cup,Nov 2021,Canada,354,Pumpkin Spice Latte - Coconut Milk,230,8,7,39,0,33
+Second Cup,Nov 2021,Canada,354,Pumpkin Spice Latte - Oat Milk,300,10,4.5,49,0,28
+Second Cup,Nov 2021,Canada,473,Pumpkin Spice Latte - 2% Milk,320,9,6,50,0,44
+Second Cup,Nov 2021,Canada,473,Pumpkin Spice Latte - Almond Milk,230,7,4,40,1,32
+Second Cup,Nov 2021,Canada,473,Pumpkin Spice Latte - Skim Milk,280,4,3.5,51,0,45
+Second Cup,Nov 2021,Canada,473,Pumpkin Spice Latte - Soy Milk,270,7,4,48,0,39
+Second Cup,Nov 2021,Canada,473,Pumpkin Spice Latte - Coconut Milk,280,9,8,49,0,41
+Second Cup,Nov 2021,Canada,473,Pumpkin Spice Latte - Oat Milk,370,12,4.5,62,0,35
+Second Cup,Nov 2021,Canada,591,Pumpkin Spice Latte - 2% Milk,460,12,9,76,0,66
+Second Cup,Nov 2021,Canada,591,Pumpkin Spice Latte - Almond Milk,350,10,6,65,1,52
+Second Cup,Nov 2021,Canada,591,Pumpkin Spice Latte - Skim Milk,410,6,5,77,0,67
+Second Cup,Nov 2021,Canada,591,Pumpkin Spice Latte - Soy Milk,400,10,6,73,0,60
+Second Cup,Nov 2021,Canada,591,Pumpkin Spice Latte - Coconut Milk,420,12,12,74,0,63
+Second Cup,Nov 2021,Canada,591,Pumpkin Spice Latte - Oat Milk,530,16,7,90,0,55
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Latte - 2% Milk,190,6,4.5,28,0,23
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Latte - Almond Milk,130,4.5,2.5,20,1,14
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Latte - Skim Milk,170,2.5,2,29,0,24
+Second Cup,Nov 2021,Canada,354,Vanilla Bean Latte - Soy Milk,160,4.5,0,26,0,19
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Latte - 2% Milk,280,8,6,41,0,33
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Latte - Almond Milk,190,6,3.5,31,1,21
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Latte - Skim Milk,240,3.5,3,42,0,34
+Second Cup,Nov 2021,Canada,473,Vanilla Bean Latte - Soy Milk,230,6,3.5,38,0,28
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Latte - 2% Milk,360,11,8,54,0,43
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Latte - Almond Milk,250,8,4.5,41,1,29
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Latte - Skim Milk,310,5,4.5,55,0,44
+Second Cup,Nov 2021,Canada,591,Vanilla Bean Latte - Soy Milk,300,8,5,50,0,37
+
+
